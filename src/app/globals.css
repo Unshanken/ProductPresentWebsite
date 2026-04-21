@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #fbf8f2;
+  --foreground: #1f2320;
+  --panel: rgba(255, 255, 255, 0.72);
+  --panel-strong: #f1ece3;
+  --line: rgba(31, 35, 32, 0.08);
+  --muted: #7f8178;
+  --accent: #d8b892;
+  --soft: #595f59;
+  --sand: #a88a66;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top, rgba(216, 184, 146, 0.18), transparent 20%),
+    radial-gradient(circle at 15% 10%, rgba(255, 255, 255, 0.9), transparent 26%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.65), rgba(246, 240, 231, 0.9)),
+    var(--background);
+  color: var(--foreground);
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+::selection {
+  background: rgba(216, 184, 146, 0.28);
+  color: #1f2320;
+}
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4 {
+    letter-spacing: -0.03em;
+  }
+}
+
+@layer components {
+  .section-space {
+    @apply py-16 sm:py-20 lg:py-24;
+  }
+
+  .section-head {
+    @apply mb-10 flex flex-col gap-4 md:mb-12 md:flex-row md:items-end md:justify-between;
+  }
+
+  .eyebrow {
+    @apply text-[11px] uppercase tracking-[0.34em] text-muted;
+  }
+
+  .display-title {
+    @apply font-serif text-4xl leading-[0.95] text-foreground sm:text-5xl lg:text-6xl;
+  }
+
+  .surface-panel {
+    @apply border border-line bg-[linear-gradient(180deg,rgba(255,255,255,0.82),rgba(247,240,231,0.68))] shadow-panel-soft backdrop-blur-md;
+  }
+
+  .surface-card {
+    @apply border border-line bg-[linear-gradient(180deg,rgba(255,255,255,0.88),rgba(245,239,230,0.78))] shadow-panel-soft;
+  }
+
+  .button-primary {
+    @apply inline-flex items-center justify-center rounded-full bg-foreground px-6 py-3 text-sm uppercase tracking-[0.22em] text-white transition duration-300 hover:translate-y-[-1px] hover:bg-[#313631];
+  }
+
+  .button-secondary {
+    @apply inline-flex items-center justify-center rounded-full border border-line bg-white/70 px-6 py-3 text-sm uppercase tracking-[0.22em] text-foreground transition duration-300 hover:translate-y-[-1px] hover:border-[#c7b49a] hover:bg-white;
+  }
+}
