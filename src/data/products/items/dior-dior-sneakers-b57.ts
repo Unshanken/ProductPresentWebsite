@@ -7,7 +7,7 @@ export const DiorDiorSneakersB57Product: Product = {
   brand: 'dior',
   category: 'shoes',
   description: 'The standout B57 low-top from Dior’s 2024 collection, designed by Kim Jones, blends retro basketball inspiration with modern luxury styling.\nReleased in multiple limited colorways, this model features bold lines and a dynamic silhouette that elevates both casual and refined outfits.\nCrafted from smooth calfskin in grey and white tones, complemented by Dior’s signature Oblique jacquard detailing and iconic “CD” branding.\nThe design incorporates layered leather panels, perforated toe detailing, and structured stitching to enhance both breathability and visual depth.\nFinished with signature Dior branding on the tongue, heel, and midsole, along with a two-tone rubber outsole that delivers durability, comfort, and a distinctive sporty edge.\nA versatile everyday sneaker that perfectly balances elegance and athletic influence.',
-  flylinkUrl: 'https://store.flylinking.com/g/G8MCECCOLH',
+  flylinkUrl: 'https://store.flylinking.com/g/MOW6PRGX0T',
   variants: [
     {
       color: 'Black',
