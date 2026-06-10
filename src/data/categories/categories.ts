@@ -15,7 +15,7 @@ export const categories: Category[] = [
     name: "Tops",
     description: "Fashion-led shirts, knitwear and elevated upper-body essentials.",
     coverImage:
-      "/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Black-1.webp"
+      "/images/products/sp5der-sp5der-hoodies/Black.webp"
   },
   {
     id: "category-003",

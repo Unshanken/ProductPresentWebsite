@@ -11,6 +11,8 @@ export function FeaturedProductsSection({
   content,
   products
 }: FeaturedProductsSectionProps) {
+  const [leadProduct, ...supportingProducts] = products;
+
   return (
     <section className="section-space" aria-labelledby="featured-products-title">
       <Container>
@@ -26,11 +28,21 @@ export function FeaturedProductsSection({
           </p>
         </div>
 
-        <div className="grid gap-6 lg:grid-cols-3">
-          {products.map((product) => (
-            <ProductCard key={product.id} product={product} />
-          ))}
-        </div>
+        {leadProduct ? (
+          <div className="grid gap-8 lg:grid-cols-[1.12fr_1fr] lg:items-start">
+            <ProductCard product={leadProduct} featuredLayout />
+            <div className="grid gap-8 sm:grid-cols-2">
+              {supportingProducts.slice(0, 4).map((product, index) => (
+                <div
+                  key={product.id}
+                  className={index > 1 ? "hidden sm:block" : undefined}
+                >
+                  <ProductCard product={product} />
+                </div>
+              ))}
+            </div>
+          </div>
+        ) : null}
       </Container>
     </section>
   );

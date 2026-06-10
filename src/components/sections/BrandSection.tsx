@@ -1,4 +1,4 @@
-import { BrandShowcaseCard } from "@/components/brands/BrandShowcaseCard";
+import Link from "next/link";
 import { Container } from "@/components/layout/Container";
 import type { Brand, HomePageContent } from "@/types";
 
@@ -26,9 +26,25 @@ export function BrandSection({ brands, content }: BrandSectionProps) {
           </p>
         </div>
 
-        <div className="grid gap-5 lg:grid-cols-3">
-          {brands.map((brand) => (
-            <BrandShowcaseCard key={brand.id} brand={brand} titleTag="h3" />
+        <div className="grid grid-cols-2 border-y border-line lg:grid-cols-3">
+          {brands.map((brand, index) => (
+            <Link
+              key={brand.id}
+              href={`/products?brand=${brand.slug}#products-results`}
+              className="group flex min-h-[8rem] flex-col justify-between border-b border-r border-line p-4 transition duration-300 hover:bg-white/58 sm:p-5 lg:min-h-[9rem] lg:p-6 lg:[&:nth-child(3n)]:border-r-0 lg:[&:nth-last-child(-n+3)]:border-b-0"
+            >
+              <span className="font-serif text-xl leading-none text-muted/50">
+                {String(index + 1).padStart(2, "0")}
+              </span>
+              <span>
+                <span className="block font-serif text-2xl leading-none text-foreground transition group-hover:translate-x-1 sm:text-3xl">
+                  {brand.name}
+                </span>
+                <span className="mt-2 block text-xs uppercase tracking-[0.28em] text-muted">
+                  {brand.origin}
+                </span>
+              </span>
+            </Link>
           ))}
         </div>
       </Container>

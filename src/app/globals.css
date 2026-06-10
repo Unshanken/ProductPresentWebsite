@@ -3,15 +3,15 @@
 @tailwind utilities;
 
 :root {
-  --background: #fbf8f2;
+  --background: #fbfaf7;
   --foreground: #1f2320;
-  --panel: rgba(255, 255, 255, 0.72);
-  --panel-strong: #f1ece3;
-  --line: rgba(31, 35, 32, 0.08);
+  --panel: rgba(255, 255, 255, 0.78);
+  --panel-strong: #f4f1ea;
+  --line: rgba(31, 35, 32, 0.1);
   --muted: #7f8178;
-  --accent: #d8b892;
+  --accent: #a98258;
   --soft: #595f59;
-  --sand: #a88a66;
+  --sand: #8f775a;
 }
 
 * {
@@ -26,9 +26,7 @@ body {
   margin: 0;
   min-height: 100vh;
   background:
-    radial-gradient(circle at top, rgba(216, 184, 146, 0.18), transparent 20%),
-    radial-gradient(circle at 15% 10%, rgba(255, 255, 255, 0.9), transparent 26%),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.65), rgba(246, 240, 231, 0.9)),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.72), rgba(247, 245, 240, 0.92)),
     var(--background);
   color: var(--foreground);
   font-family: "Helvetica Neue", Arial, sans-serif;
@@ -77,11 +75,11 @@ img {
   }
 
   .surface-panel {
-    @apply border border-line bg-[linear-gradient(180deg,rgba(255,255,255,0.82),rgba(247,240,231,0.68))] shadow-panel-soft backdrop-blur-md;
+    @apply border border-line bg-white/[0.72] shadow-panel-soft backdrop-blur-md;
   }
 
   .surface-card {
-    @apply border border-line bg-[linear-gradient(180deg,rgba(255,255,255,0.88),rgba(245,239,230,0.78))] shadow-panel-soft;
+    @apply border border-line bg-white/[0.78];
   }
 
   .button-primary {
