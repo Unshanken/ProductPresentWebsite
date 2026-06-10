@@ -12,49 +12,49 @@ export const DiorDiorSneakersB27Product: Product = {
     {
       color: 'Black',
       images: [
-        '/images/products/dior-dior-sneakers-b27/Black1.jpg',
-        '/images/products/dior-dior-sneakers-b27/Black2.jpg',
-        '/images/products/dior-dior-sneakers-b27/Black3.jpg',
-        '/images/products/dior-dior-sneakers-b27/Black4.jpg',
-        '/images/products/dior-dior-sneakers-b27/Black5.jpg',
-        '/images/products/dior-dior-sneakers-b27/Black6.jpg',
-        '/images/products/dior-dior-sneakers-b27/Black7.jpg'
+        '/images/products/dior-dior-sneakers-b27/Black1.webp',
+        '/images/products/dior-dior-sneakers-b27/Black2.webp',
+        '/images/products/dior-dior-sneakers-b27/Black3.webp',
+        '/images/products/dior-dior-sneakers-b27/Black4.webp',
+        '/images/products/dior-dior-sneakers-b27/Black5.webp',
+        '/images/products/dior-dior-sneakers-b27/Black6.webp',
+        '/images/products/dior-dior-sneakers-b27/Black7.webp'
       ]
     },
     {
       color: 'Classic',
       images: [
-        '/images/products/dior-dior-sneakers-b27/Classic1.jpg',
-        '/images/products/dior-dior-sneakers-b27/Classic2.jpg',
-        '/images/products/dior-dior-sneakers-b27/Classic3.jpg',
-        '/images/products/dior-dior-sneakers-b27/Classic4.jpg',
-        '/images/products/dior-dior-sneakers-b27/Classic5.jpg',
-        '/images/products/dior-dior-sneakers-b27/Classic6.jpg',
-        '/images/products/dior-dior-sneakers-b27/Classic7.jpg'
+        '/images/products/dior-dior-sneakers-b27/Classic1.webp',
+        '/images/products/dior-dior-sneakers-b27/Classic2.webp',
+        '/images/products/dior-dior-sneakers-b27/Classic3.webp',
+        '/images/products/dior-dior-sneakers-b27/Classic4.webp',
+        '/images/products/dior-dior-sneakers-b27/Classic5.webp',
+        '/images/products/dior-dior-sneakers-b27/Classic6.webp',
+        '/images/products/dior-dior-sneakers-b27/Classic7.webp'
       ]
     },
     {
       color: 'Creme',
       images: [
-        '/images/products/dior-dior-sneakers-b27/Creme1.jpg',
-        '/images/products/dior-dior-sneakers-b27/Creme2.jpg',
-        '/images/products/dior-dior-sneakers-b27/Creme3.jpg',
-        '/images/products/dior-dior-sneakers-b27/Creme4.jpg',
-        '/images/products/dior-dior-sneakers-b27/Creme5.jpg'
+        '/images/products/dior-dior-sneakers-b27/Creme1.webp',
+        '/images/products/dior-dior-sneakers-b27/Creme2.webp',
+        '/images/products/dior-dior-sneakers-b27/Creme3.webp',
+        '/images/products/dior-dior-sneakers-b27/Creme4.webp',
+        '/images/products/dior-dior-sneakers-b27/Creme5.webp'
       ]
     },
     {
       color: 'More Color On Flylink',
       images: [
-        '/images/products/dior-dior-sneakers-b27/More Color On Flylink.jpg'
+        '/images/products/dior-dior-sneakers-b27/More Color On Flylink.webp'
       ]
     }
   ],
   images: [
-    '/images/products/dior-dior-sneakers-b27/Black1.jpg',
-    '/images/products/dior-dior-sneakers-b27/Classic1.jpg',
-    '/images/products/dior-dior-sneakers-b27/Creme1.jpg',
-    '/images/products/dior-dior-sneakers-b27/More Color On Flylink.jpg'
+    '/images/products/dior-dior-sneakers-b27/Black1.webp',
+    '/images/products/dior-dior-sneakers-b27/Classic1.webp',
+    '/images/products/dior-dior-sneakers-b27/Creme1.webp',
+    '/images/products/dior-dior-sneakers-b27/More Color On Flylink.webp'
   ],
   colors: [
     'Black',

@@ -7,7 +7,7 @@ export const categories: Category[] = [
     name: "Shoes",
     description: "Luxury sneakers, boots and statement footwear for modern styling.",
     coverImage:
-      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
+      "/images/products/louis-vuitton-trainer/Baby Blue1.webp"
   },
   {
     id: "category-002",
@@ -15,7 +15,7 @@ export const categories: Category[] = [
     name: "Tops",
     description: "Fashion-led shirts, knitwear and elevated upper-body essentials.",
     coverImage:
-      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80"
+      "/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Black-1.webp"
   },
   {
     id: "category-003",
@@ -23,7 +23,7 @@ export const categories: Category[] = [
     name: "Pants",
     description: "Tailored trousers and relaxed silhouettes with premium texture.",
     coverImage:
-      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=1200&q=80"
+      "/images/products/amiri-amiri-jeans/Style 1.webp"
   },
   {
     id: "category-004",
@@ -31,7 +31,7 @@ export const categories: Category[] = [
     name: "Jewelry",
     description: "Refined rings, necklaces and bracelets with a contemporary edge.",
     coverImage:
-      "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=1200&q=80"
+      "/images/products/chanel-chanel-chunky-platform-sneakers/Gold1.webp"
   },
   {
     id: "category-005",
@@ -39,6 +39,6 @@ export const categories: Category[] = [
     name: "Bags",
     description: "Structured carry goods designed for both fashion and utility.",
     coverImage:
-      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1200&q=80"
+      "/images/products/louis-vuitton-women-vintage-sneaker/Panda1.webp"
   }
 ];

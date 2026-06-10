@@ -12,84 +12,84 @@ export const BalenciagaBalenciagaRunnerSneaker70Product: Product = {
     {
       color: 'Black',
       images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black1.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black2.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black3.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black4.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black5.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black6.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black7.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black8.jpg'
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black1.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black2.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black3.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black4.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black5.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black6.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black7.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black8.webp'
       ]
     },
     {
       color: 'Blue',
       images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue1.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue2.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue3.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue4.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue5.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue6.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue7.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue8.jpg'
-      ]
-    },
-    {
-      color: 'Pink',
-      images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Pink.jpg'
-      ]
-    },
-    {
-      color: 'Red',
-      images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Red.jpg'
-      ]
-    },
-    {
-      color: 'Silver',
-      images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Silver.jpg'
-      ]
-    },
-    {
-      color: 'Yellow',
-      images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow1.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow2.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow3.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow4.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow5.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow6.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow7.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow8.jpg'
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue1.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue2.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue3.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue4.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue5.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue6.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue7.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue8.webp'
       ]
     },
     {
       color: 'More Color On Flylink',
       images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/More Color on Flylink.jpg'
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/More Color on Flylink.webp'
+      ]
+    },
+    {
+      color: 'Pink',
+      images: [
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Pink.webp'
+      ]
+    },
+    {
+      color: 'Red',
+      images: [
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Red.webp'
+      ]
+    },
+    {
+      color: 'Silver',
+      images: [
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Silver.webp'
+      ]
+    },
+    {
+      color: 'Yellow',
+      images: [
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow1.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow2.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow3.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow4.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow5.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow6.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow7.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow8.webp'
       ]
     }
   ],
   images: [
-    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black1.jpg',
-    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue1.jpg',
-    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Pink.jpg',
-    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Red.jpg',
-    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Silver.jpg',
-    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow1.jpg',
-    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/More Color on Flylink.jpg'
+    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Black1.webp',
+    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Blue1.webp',
+    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/More Color on Flylink.webp',
+    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Pink.webp',
+    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Red.webp',
+    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Silver.webp',
+    '/images/products/balenciaga-balenciaga-runner-sneaker-7-0/Yellow1.webp'
   ],
   colors: [
     'Black',
     'Blue',
+    'More Color On Flylink',
     'Pink',
     'Red',
     'Silver',
-    'Yellow',
-    'More Color On Flylink'
+    'Yellow'
   ],
   sizes: [
     'Men US 3.5 = Women US 5 = UK 3 = EUR 35.5',

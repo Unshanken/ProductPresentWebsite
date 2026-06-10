@@ -12,81 +12,81 @@ export const LouisVuittonTrainerProduct: Product = {
     {
       color: 'Baby Blue',
       images: [
-        '/images/products/louis-vuitton-trainer/Baby Blue1.jpg',
-        '/images/products/louis-vuitton-trainer/Baby Blue2.jpg',
-        '/images/products/louis-vuitton-trainer/Baby Blue3.jpg',
-        '/images/products/louis-vuitton-trainer/Baby Blue4.jpg'
+        '/images/products/louis-vuitton-trainer/Baby Blue1.webp',
+        '/images/products/louis-vuitton-trainer/Baby Blue2.webp',
+        '/images/products/louis-vuitton-trainer/Baby Blue3.webp',
+        '/images/products/louis-vuitton-trainer/Baby Blue4.webp'
       ]
     },
     {
       color: 'Black',
       images: [
-        '/images/products/louis-vuitton-trainer/Black1.jpg',
-        '/images/products/louis-vuitton-trainer/Black2.jpg',
-        '/images/products/louis-vuitton-trainer/Black3.jpg',
-        '/images/products/louis-vuitton-trainer/Black4.jpg'
+        '/images/products/louis-vuitton-trainer/Black1.webp',
+        '/images/products/louis-vuitton-trainer/Black2.webp',
+        '/images/products/louis-vuitton-trainer/Black3.webp',
+        '/images/products/louis-vuitton-trainer/Black4.webp'
       ]
     },
     {
       color: 'Blue',
       images: [
-        '/images/products/louis-vuitton-trainer/Blue1.jpg',
-        '/images/products/louis-vuitton-trainer/Blue2.jpg',
-        '/images/products/louis-vuitton-trainer/Blue3.jpg',
-        '/images/products/louis-vuitton-trainer/Blue4.jpg'
+        '/images/products/louis-vuitton-trainer/Blue1.webp',
+        '/images/products/louis-vuitton-trainer/Blue2.webp',
+        '/images/products/louis-vuitton-trainer/Blue3.webp',
+        '/images/products/louis-vuitton-trainer/Blue4.webp'
       ]
     },
     {
       color: 'Denim',
       images: [
-        '/images/products/louis-vuitton-trainer/Denim1.jpg',
-        '/images/products/louis-vuitton-trainer/Denim2.jpg',
-        '/images/products/louis-vuitton-trainer/Denim3.jpg',
-        '/images/products/louis-vuitton-trainer/Denim4.jpg',
-        '/images/products/louis-vuitton-trainer/Denim5.jpg'
-      ]
-    },
-    {
-      color: 'Red',
-      images: [
-        '/images/products/louis-vuitton-trainer/Red1.jpg',
-        '/images/products/louis-vuitton-trainer/Red2.jpg',
-        '/images/products/louis-vuitton-trainer/Red3.jpg'
-      ]
-    },
-    {
-      color: 'White',
-      images: [
-        '/images/products/louis-vuitton-trainer/White1.jpg',
-        '/images/products/louis-vuitton-trainer/White2.jpg',
-        '/images/products/louis-vuitton-trainer/White3.jpg',
-        '/images/products/louis-vuitton-trainer/White4.jpg'
+        '/images/products/louis-vuitton-trainer/Denim1.webp',
+        '/images/products/louis-vuitton-trainer/Denim2.webp',
+        '/images/products/louis-vuitton-trainer/Denim3.webp',
+        '/images/products/louis-vuitton-trainer/Denim4.webp',
+        '/images/products/louis-vuitton-trainer/Denim5.webp'
       ]
     },
     {
       color: 'More Color On Flylink',
       images: [
-        '/images/products/louis-vuitton-trainer/More Color on Flylink.jpg'
+        '/images/products/louis-vuitton-trainer/More Color on Flylink.webp'
+      ]
+    },
+    {
+      color: 'Red',
+      images: [
+        '/images/products/louis-vuitton-trainer/Red1.webp',
+        '/images/products/louis-vuitton-trainer/Red2.webp',
+        '/images/products/louis-vuitton-trainer/Red3.webp'
+      ]
+    },
+    {
+      color: 'White',
+      images: [
+        '/images/products/louis-vuitton-trainer/White1.webp',
+        '/images/products/louis-vuitton-trainer/White2.webp',
+        '/images/products/louis-vuitton-trainer/White3.webp',
+        '/images/products/louis-vuitton-trainer/White4.webp'
       ]
     }
   ],
   images: [
-    '/images/products/louis-vuitton-trainer/Baby Blue1.jpg',
-    '/images/products/louis-vuitton-trainer/Black1.jpg',
-    '/images/products/louis-vuitton-trainer/Blue1.jpg',
-    '/images/products/louis-vuitton-trainer/Denim1.jpg',
-    '/images/products/louis-vuitton-trainer/Red1.jpg',
-    '/images/products/louis-vuitton-trainer/White1.jpg',
-    '/images/products/louis-vuitton-trainer/More Color on Flylink.jpg'
+    '/images/products/louis-vuitton-trainer/Baby Blue1.webp',
+    '/images/products/louis-vuitton-trainer/Black1.webp',
+    '/images/products/louis-vuitton-trainer/Blue1.webp',
+    '/images/products/louis-vuitton-trainer/Denim1.webp',
+    '/images/products/louis-vuitton-trainer/More Color on Flylink.webp',
+    '/images/products/louis-vuitton-trainer/Red1.webp',
+    '/images/products/louis-vuitton-trainer/White1.webp'
   ],
   colors: [
     'Baby Blue',
     'Black',
     'Blue',
     'Denim',
+    'More Color On Flylink',
     'Red',
-    'White',
-    'More Color On Flylink'
+    'White'
   ],
   sizes: [
     'Men US 3.5 = Women US 5 = UK 3 = EUR 35.5',

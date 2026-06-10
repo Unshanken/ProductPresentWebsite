@@ -10,27 +10,33 @@ export const UggUggTazzPlatformSlipperProduct: Product = {
   flylinkUrl: 'https://store.flylinking.com/g/9E1Y01QZ1A',
   variants: [
     {
-      color: 'Black',
+      color: 'Style 1',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/ugg-ugg-tazz-platform-slipper/Style1.webp'
       ]
     },
     {
-      color: 'White',
+      color: 'Style 2',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/ugg-ugg-tazz-platform-slipper/Style2.webp'
+      ]
+    },
+    {
+      color: 'Style 3',
+      images: [
+        '/images/products/ugg-ugg-tazz-platform-slipper/Style3.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/ugg-ugg-tazz-platform-slipper/Style1.webp',
+    '/images/products/ugg-ugg-tazz-platform-slipper/Style2.webp',
+    '/images/products/ugg-ugg-tazz-platform-slipper/Style3.webp'
   ],
   colors: [
-    'Black',
-    'White'
+    'Style 1',
+    'Style 2',
+    'Style 3'
   ],
   sizes: [
     'Men US 3.5 = Women US 5 = UK 3 = EUR 35.5',

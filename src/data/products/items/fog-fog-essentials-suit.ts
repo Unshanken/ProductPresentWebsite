@@ -12,33 +12,43 @@ export const FogFogEssentialsSuitProduct: Product = {
     {
       color: 'Black',
       images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/fog-fog-essentials-suit/Black-Pants.webp',
+        '/images/products/fog-fog-essentials-suit/Black.webp'
       ]
     },
     {
-      color: 'White',
+      color: 'Creme',
       images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/fog-fog-essentials-suit/Creme-Pants.webp',
+        '/images/products/fog-fog-essentials-suit/Creme.webp'
       ]
     },
     {
-      color: 'Grey',
+      color: 'Dark Grey',
       images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/fog-fog-essentials-suit/Dark Grey.webp',
+        '/images/products/fog-fog-essentials-suit/Dark-Grey-Pants.webp'
+      ]
+    },
+    {
+      color: 'Light Grey',
+      images: [
+        '/images/products/fog-fog-essentials-suit/Light Grey.webp',
+        '/images/products/fog-fog-essentials-suit/Light-Grey-Pants.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/fog-fog-essentials-suit/Black-Pants.webp',
+    '/images/products/fog-fog-essentials-suit/Creme-Pants.webp',
+    '/images/products/fog-fog-essentials-suit/Dark Grey.webp',
+    '/images/products/fog-fog-essentials-suit/Light Grey.webp'
   ],
   colors: [
     'Black',
-    'White',
-    'Grey'
+    'Creme',
+    'Dark Grey',
+    'Light Grey'
   ],
   sizes: [
     'S',

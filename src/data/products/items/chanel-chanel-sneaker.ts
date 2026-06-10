@@ -12,50 +12,50 @@ export const ChanelChanelSneakerProduct: Product = {
     {
       color: 'Black',
       images: [
-        '/images/products/chanel-chanel-sneaker/Black1.jpg',
-        '/images/products/chanel-chanel-sneaker/Black2.jpg',
-        '/images/products/chanel-chanel-sneaker/Black3.jpg',
-        '/images/products/chanel-chanel-sneaker/Black4.jpg'
+        '/images/products/chanel-chanel-sneaker/Black1.webp',
+        '/images/products/chanel-chanel-sneaker/Black2.webp',
+        '/images/products/chanel-chanel-sneaker/Black3.webp',
+        '/images/products/chanel-chanel-sneaker/Black4.webp'
       ]
     },
     {
       color: 'Blue',
       images: [
-        '/images/products/chanel-chanel-sneaker/Blue1.jpg',
-        '/images/products/chanel-chanel-sneaker/Blue2.jpg',
-        '/images/products/chanel-chanel-sneaker/Blue3.jpg',
-        '/images/products/chanel-chanel-sneaker/Blue4.jpg',
-        '/images/products/chanel-chanel-sneaker/Blue5.jpg'
-      ]
-    },
-    {
-      color: 'White',
-      images: [
-        '/images/products/chanel-chanel-sneaker/White1.jpg',
-        '/images/products/chanel-chanel-sneaker/White2.jpg',
-        '/images/products/chanel-chanel-sneaker/White3.jpg',
-        '/images/products/chanel-chanel-sneaker/White4.jpg',
-        '/images/products/chanel-chanel-sneaker/White5.jpg'
+        '/images/products/chanel-chanel-sneaker/Blue1.webp',
+        '/images/products/chanel-chanel-sneaker/Blue2.webp',
+        '/images/products/chanel-chanel-sneaker/Blue3.webp',
+        '/images/products/chanel-chanel-sneaker/Blue4.webp',
+        '/images/products/chanel-chanel-sneaker/Blue5.webp'
       ]
     },
     {
       color: 'More Color On Flylink',
       images: [
-        '/images/products/chanel-chanel-sneaker/More Color on Flylink.jpg'
+        '/images/products/chanel-chanel-sneaker/More Color on Flylink.webp'
+      ]
+    },
+    {
+      color: 'White',
+      images: [
+        '/images/products/chanel-chanel-sneaker/White1.webp',
+        '/images/products/chanel-chanel-sneaker/White2.webp',
+        '/images/products/chanel-chanel-sneaker/White3.webp',
+        '/images/products/chanel-chanel-sneaker/White4.webp',
+        '/images/products/chanel-chanel-sneaker/White5.webp'
       ]
     }
   ],
   images: [
-    '/images/products/chanel-chanel-sneaker/Black1.jpg',
-    '/images/products/chanel-chanel-sneaker/Blue1.jpg',
-    '/images/products/chanel-chanel-sneaker/White1.jpg',
-    '/images/products/chanel-chanel-sneaker/More Color on Flylink.jpg'
+    '/images/products/chanel-chanel-sneaker/Black1.webp',
+    '/images/products/chanel-chanel-sneaker/Blue1.webp',
+    '/images/products/chanel-chanel-sneaker/More Color on Flylink.webp',
+    '/images/products/chanel-chanel-sneaker/White1.webp'
   ],
   colors: [
     'Black',
     'Blue',
-    'White',
-    'More Color On Flylink'
+    'More Color On Flylink',
+    'White'
   ],
   sizes: [
     'Women US 5 = UK 3 = EUR 35.5',

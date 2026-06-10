@@ -12,70 +12,70 @@ export const BalenciagaBalenciagaRunnerSneaker35Product: Product = {
     {
       color: 'Black',
       images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black1.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black2.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black3.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black4.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black5.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black6.jpg'
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black1.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black2.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black3.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black4.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black5.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black6.webp'
       ]
     },
     {
       color: 'Blue',
       images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue1.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue2.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue3.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue4.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue5.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue6.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue7.jpg'
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue1.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue2.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue3.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue4.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue5.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue6.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue7.webp'
       ]
     },
     {
       color: 'Creme',
       images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme1.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme2.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme3.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme4.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme5.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme6.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme7.jpg'
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme1.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme2.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme3.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme4.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme5.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme6.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme7.webp'
+      ]
+    },
+    {
+      color: 'More Colors On Flylink',
+      images: [
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/More Colors on Flylink.webp'
       ]
     },
     {
       color: 'Orange',
       images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange1.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange2.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange3.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange4.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange5.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange6.jpg',
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange7.jpg'
-      ]
-    },
-    {
-      color: 'More Color On Flylink',
-      images: [
-        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/More Colors on Flylink.jpg'
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange1.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange2.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange3.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange4.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange5.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange6.webp',
+        '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange7.webp'
       ]
     }
   ],
   images: [
-    '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black1.jpg',
-    '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue1.jpg',
-    '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme1.jpg',
-    '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange1.jpg',
-    '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/More Colors on Flylink.jpg'
+    '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Black1.webp',
+    '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Blue1.webp',
+    '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Creme1.webp',
+    '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/More Colors on Flylink.webp',
+    '/images/products/balenciaga-balenciaga-runner-sneaker-3-5/Orange1.webp'
   ],
   colors: [
     'Black',
     'Blue',
     'Creme',
-    'Orange',
-    'More Color On Flylink'
+    'More Colors On Flylink',
+    'Orange'
   ],
   sizes: [
     'Men US 3.5 = Women US 5 = UK 3 = EUR 35.5',

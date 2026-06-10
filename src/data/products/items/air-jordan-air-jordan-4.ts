@@ -10,131 +10,61 @@ export const AirJordanAirJordan4Product: Product = {
   flylinkUrl: 'https://store.flylinking.com/g/85YI0HRTXU',
   variants: [
     {
-      color: 'Red&Blue',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Dark Grey',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Yellow&Voilet',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Deep Grey',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Light Grey',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Flame Red',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'White & Green',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Lava Red',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
       color: 'Blue',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-4/Blue1.webp',
+        '/images/products/air-jordan-air-jordan-4/Blue2.webp',
+        '/images/products/air-jordan-air-jordan-4/Blue3.webp',
+        '/images/products/air-jordan-air-jordan-4/Blue4.webp',
+        '/images/products/air-jordan-air-jordan-4/Blue5.webp',
+        '/images/products/air-jordan-air-jordan-4/Blue6.webp'
       ]
     },
     {
-      color: 'Sage Green',
+      color: 'White',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-4/White1.webp',
+        '/images/products/air-jordan-air-jordan-4/White2.webp',
+        '/images/products/air-jordan-air-jordan-4/White3.webp',
+        '/images/products/air-jordan-air-jordan-4/White4.webp',
+        '/images/products/air-jordan-air-jordan-4/White5.webp',
+        '/images/products/air-jordan-air-jordan-4/White6.webp',
+        '/images/products/air-jordan-air-jordan-4/White7.webp'
       ]
     },
     {
-      color: 'Grey&Green',
+      color: 'White Blue',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-4/White-Blue1.webp',
+        '/images/products/air-jordan-air-jordan-4/White-Blue2.webp',
+        '/images/products/air-jordan-air-jordan-4/White-Blue3.webp',
+        '/images/products/air-jordan-air-jordan-4/White-Blue4.webp',
+        '/images/products/air-jordan-air-jordan-4/White-Blue5.webp',
+        '/images/products/air-jordan-air-jordan-4/White-Blue6.webp'
       ]
     },
     {
-      color: 'Oreo',
+      color: 'Yellow',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'White&Black&Red',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'White&Red',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'White&Green',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-4/Yellow1.webp',
+        '/images/products/air-jordan-air-jordan-4/Yellow2.webp',
+        '/images/products/air-jordan-air-jordan-4/Yellow3.webp',
+        '/images/products/air-jordan-air-jordan-4/Yellow4.webp',
+        '/images/products/air-jordan-air-jordan-4/Yellow5.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/air-jordan-air-jordan-4/Blue1.webp',
+    '/images/products/air-jordan-air-jordan-4/White1.webp',
+    '/images/products/air-jordan-air-jordan-4/White-Blue1.webp',
+    '/images/products/air-jordan-air-jordan-4/Yellow1.webp'
   ],
   colors: [
-    'Red&Blue',
-    'Dark Grey',
-    'Yellow&Voilet',
-    'Deep Grey',
-    'Light Grey',
-    'Flame Red',
-    'White & Green',
-    'Lava Red',
     'Blue',
-    'Sage Green',
-    'Grey&Green',
-    'Oreo',
-    'White&Black&Red',
-    'White&Red',
-    'White&Green'
+    'White',
+    'White Blue',
+    'Yellow'
   ],
   sizes: [
     'Men US 4 = Women US 5.5 = UK 3.5 = EUR 36',

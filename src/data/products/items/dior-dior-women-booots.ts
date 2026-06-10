@@ -12,25 +12,17 @@ export const DiorDiorWomenBoootsProduct: Product = {
     {
       color: 'Black',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'White',
-      images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/dior-dior-women-booots/Black-Long.webp',
+        '/images/products/dior-dior-women-booots/Black-Short.webp',
+        '/images/products/dior-dior-women-booots/Black.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/dior-dior-women-booots/Black-Long.webp'
   ],
   colors: [
-    'Black',
-    'White'
+    'Black'
   ],
   sizes: [
     'Women US 5 = UK 3 = EUR 35.5',

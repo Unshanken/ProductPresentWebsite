@@ -12,50 +12,50 @@ export const AlexanderMcqueenOversizedLeatherSneakerProduct: Product = {
     {
       color: 'Blue',
       images: [
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Blue1.jpg',
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Blue2.jpg',
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Blue3.jpg',
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Blue4.jpg'
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Blue1.webp',
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Blue2.webp',
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Blue3.webp',
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Blue4.webp'
       ]
     },
     {
       color: 'Green',
       images: [
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green1.jpg',
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green2.jpg',
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green3.jpg',
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green4.jpg',
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green5.jpg',
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green6.jpg'
-      ]
-    },
-    {
-      color: 'Pink',
-      images: [
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Pink1.jpg',
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Pink2.jpg',
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Pink3.jpg',
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Pink4.jpg'
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green1.webp',
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green2.webp',
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green3.webp',
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green4.webp',
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green5.webp',
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green6.webp'
       ]
     },
     {
       color: 'More Color On Flylink',
       images: [
-        '/images/products/alexander-mcqueen-oversized-leather-sneaker/More Color on Flylink.jpg'
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/More Color on Flylink.webp'
+      ]
+    },
+    {
+      color: 'Pink',
+      images: [
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Pink1.webp',
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Pink2.webp',
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Pink3.webp',
+        '/images/products/alexander-mcqueen-oversized-leather-sneaker/Pink4.webp'
       ]
     }
   ],
   images: [
-    '/images/products/alexander-mcqueen-oversized-leather-sneaker/Blue1.jpg',
-    '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green1.jpg',
-    '/images/products/alexander-mcqueen-oversized-leather-sneaker/Pink1.jpg',
-    '/images/products/alexander-mcqueen-oversized-leather-sneaker/More Color on Flylink.jpg'
+    '/images/products/alexander-mcqueen-oversized-leather-sneaker/Blue1.webp',
+    '/images/products/alexander-mcqueen-oversized-leather-sneaker/Green1.webp',
+    '/images/products/alexander-mcqueen-oversized-leather-sneaker/More Color on Flylink.webp',
+    '/images/products/alexander-mcqueen-oversized-leather-sneaker/Pink1.webp'
   ],
   colors: [
     'Blue',
     'Green',
-    'Pink',
-    'More Color On Flylink'
+    'More Color On Flylink',
+    'Pink'
   ],
   sizes: [
     'Men US 3.5 = Women US 5 = UK 3 = EUR 35.5',

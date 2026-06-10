@@ -10,27 +10,65 @@ export const AmiriAmiriJeansProduct: Product = {
   flylinkUrl: 'https://store.flylinking.com/g/CDM763RO6E',
   variants: [
     {
-      color: 'Blue Wash',
+      color: 'Style 1',
       images: [
-        'https://images.unsplash.com/photo-1506629905607-d9d1c6d0e7cf?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/amiri-amiri-jeans/Style 1.webp'
       ]
     },
     {
-      color: 'Black',
+      color: 'Style 2',
       images: [
-        'https://images.unsplash.com/photo-1506629905607-d9d1c6d0e7cf?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/amiri-amiri-jeans/Style 2.webp'
+      ]
+    },
+    {
+      color: 'Style 3',
+      images: [
+        '/images/products/amiri-amiri-jeans/Style 3.webp'
+      ]
+    },
+    {
+      color: 'Style 4',
+      images: [
+        '/images/products/amiri-amiri-jeans/Style 4.webp'
+      ]
+    },
+    {
+      color: 'Style 5',
+      images: [
+        '/images/products/amiri-amiri-jeans/Style 5.webp'
+      ]
+    },
+    {
+      color: 'Style 6',
+      images: [
+        '/images/products/amiri-amiri-jeans/Style 6.webp'
+      ]
+    },
+    {
+      color: 'Style 7',
+      images: [
+        '/images/products/amiri-amiri-jeans/Style 7.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1506629905607-d9d1c6d0e7cf?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/amiri-amiri-jeans/Style 1.webp',
+    '/images/products/amiri-amiri-jeans/Style 2.webp',
+    '/images/products/amiri-amiri-jeans/Style 3.webp',
+    '/images/products/amiri-amiri-jeans/Style 4.webp',
+    '/images/products/amiri-amiri-jeans/Style 5.webp',
+    '/images/products/amiri-amiri-jeans/Style 6.webp',
+    '/images/products/amiri-amiri-jeans/Style 7.webp'
   ],
   colors: [
-    'Blue Wash',
-    'Black'
+    'Style 1',
+    'Style 2',
+    'Style 3',
+    'Style 4',
+    'Style 5',
+    'Style 6',
+    'Style 7'
   ],
   sizes: [
     '28',

@@ -12,25 +12,36 @@ export const UggUggClassicUltraMiniProduct: Product = {
     {
       color: 'Black',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/ugg-ugg-classic-ultra-mini/Black1.webp',
+        '/images/products/ugg-ugg-classic-ultra-mini/Black2.webp'
       ]
     },
     {
-      color: 'White',
+      color: 'Chestnut',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/ugg-ugg-classic-ultra-mini/Chestnut1.webp',
+        '/images/products/ugg-ugg-classic-ultra-mini/Chestnut2.webp',
+        '/images/products/ugg-ugg-classic-ultra-mini/Chestnut3.webp',
+        '/images/products/ugg-ugg-classic-ultra-mini/Chestnut4.webp'
+      ]
+    },
+    {
+      color: 'Khaki',
+      images: [
+        '/images/products/ugg-ugg-classic-ultra-mini/Khaki1.webp',
+        '/images/products/ugg-ugg-classic-ultra-mini/Khaki2.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/ugg-ugg-classic-ultra-mini/Black1.webp',
+    '/images/products/ugg-ugg-classic-ultra-mini/Chestnut1.webp',
+    '/images/products/ugg-ugg-classic-ultra-mini/Khaki1.webp'
   ],
   colors: [
     'Black',
-    'White'
+    'Chestnut',
+    'Khaki'
   ],
   sizes: [
     'Men US 3.5 = Women US 5 = UK 3 = EUR 35.5',

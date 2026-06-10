@@ -12,54 +12,54 @@ export const DiorDiorSneakersB57Product: Product = {
     {
       color: 'Black',
       images: [
-        '/images/products/dior-dior-sneakers-b57/Black1.jpg',
-        '/images/products/dior-dior-sneakers-b57/Black2.jpg',
-        '/images/products/dior-dior-sneakers-b57/Black3.jpg',
-        '/images/products/dior-dior-sneakers-b57/Black4.jpg',
-        '/images/products/dior-dior-sneakers-b57/Black5.jpg',
-        '/images/products/dior-dior-sneakers-b57/Black6.jpg',
-        '/images/products/dior-dior-sneakers-b57/Black7.jpg',
-        '/images/products/dior-dior-sneakers-b57/Black8.jpg'
+        '/images/products/dior-dior-sneakers-b57/Black1.webp',
+        '/images/products/dior-dior-sneakers-b57/Black2.webp',
+        '/images/products/dior-dior-sneakers-b57/Black3.webp',
+        '/images/products/dior-dior-sneakers-b57/Black4.webp',
+        '/images/products/dior-dior-sneakers-b57/Black5.webp',
+        '/images/products/dior-dior-sneakers-b57/Black6.webp',
+        '/images/products/dior-dior-sneakers-b57/Black7.webp',
+        '/images/products/dior-dior-sneakers-b57/Black8.webp'
       ]
     },
     {
       color: 'Blue',
       images: [
-        '/images/products/dior-dior-sneakers-b57/Blue1.jpg',
-        '/images/products/dior-dior-sneakers-b57/Blue2.jpg',
-        '/images/products/dior-dior-sneakers-b57/Blue3.jpg',
-        '/images/products/dior-dior-sneakers-b57/Blue4.jpg',
-        '/images/products/dior-dior-sneakers-b57/Blue5.jpg',
-        '/images/products/dior-dior-sneakers-b57/Blue6.jpg',
-        '/images/products/dior-dior-sneakers-b57/Blue7.jpg',
-        '/images/products/dior-dior-sneakers-b57/Blue8.jpg'
+        '/images/products/dior-dior-sneakers-b57/Blue1.webp',
+        '/images/products/dior-dior-sneakers-b57/Blue2.webp',
+        '/images/products/dior-dior-sneakers-b57/Blue3.webp',
+        '/images/products/dior-dior-sneakers-b57/Blue4.webp',
+        '/images/products/dior-dior-sneakers-b57/Blue5.webp',
+        '/images/products/dior-dior-sneakers-b57/Blue6.webp',
+        '/images/products/dior-dior-sneakers-b57/Blue7.webp',
+        '/images/products/dior-dior-sneakers-b57/Blue8.webp'
       ]
     },
     {
       color: 'Classic',
       images: [
-        '/images/products/dior-dior-sneakers-b57/Classic1.jpg',
-        '/images/products/dior-dior-sneakers-b57/Classic2.jpg',
-        '/images/products/dior-dior-sneakers-b57/Classic3.jpg',
-        '/images/products/dior-dior-sneakers-b57/Classic4.jpg',
-        '/images/products/dior-dior-sneakers-b57/Classic5.jpg',
-        '/images/products/dior-dior-sneakers-b57/Classic6.jpg',
-        '/images/products/dior-dior-sneakers-b57/Classic7.jpg',
-        '/images/products/dior-dior-sneakers-b57/Classic8.jpg'
+        '/images/products/dior-dior-sneakers-b57/Classic1.webp',
+        '/images/products/dior-dior-sneakers-b57/Classic2.webp',
+        '/images/products/dior-dior-sneakers-b57/Classic3.webp',
+        '/images/products/dior-dior-sneakers-b57/Classic4.webp',
+        '/images/products/dior-dior-sneakers-b57/Classic5.webp',
+        '/images/products/dior-dior-sneakers-b57/Classic6.webp',
+        '/images/products/dior-dior-sneakers-b57/Classic7.webp',
+        '/images/products/dior-dior-sneakers-b57/Classic8.webp'
       ]
     },
     {
       color: 'More Color On Flylink',
       images: [
-        '/images/products/dior-dior-sneakers-b57/More Color on Flylink.jpg'
+        '/images/products/dior-dior-sneakers-b57/More Color on Flylink.webp'
       ]
     }
   ],
   images: [
-    '/images/products/dior-dior-sneakers-b57/Black1.jpg',
-    '/images/products/dior-dior-sneakers-b57/Blue1.jpg',
-    '/images/products/dior-dior-sneakers-b57/Classic1.jpg',
-    '/images/products/dior-dior-sneakers-b57/More Color on Flylink.jpg'
+    '/images/products/dior-dior-sneakers-b57/Black1.webp',
+    '/images/products/dior-dior-sneakers-b57/Blue1.webp',
+    '/images/products/dior-dior-sneakers-b57/Classic1.webp',
+    '/images/products/dior-dior-sneakers-b57/More Color on Flylink.webp'
   ],
   colors: [
     'Black',

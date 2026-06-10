@@ -12,50 +12,50 @@ export const ValentinoOneStudSneakerProduct: Product = {
     {
       color: 'Grey',
       images: [
-        '/images/products/valentino-one-stud-sneaker/Grey1.jpg',
-        '/images/products/valentino-one-stud-sneaker/Grey2.jpg',
-        '/images/products/valentino-one-stud-sneaker/Grey3.jpg',
-        '/images/products/valentino-one-stud-sneaker/Grey4.jpg'
-      ]
-    },
-    {
-      color: 'Red',
-      images: [
-        '/images/products/valentino-one-stud-sneaker/Red1.jpg',
-        '/images/products/valentino-one-stud-sneaker/Red2.jpg',
-        '/images/products/valentino-one-stud-sneaker/Red3.jpg',
-        '/images/products/valentino-one-stud-sneaker/Red4.jpg',
-        '/images/products/valentino-one-stud-sneaker/Red5.jpg'
-      ]
-    },
-    {
-      color: 'White',
-      images: [
-        '/images/products/valentino-one-stud-sneaker/White1.jpg',
-        '/images/products/valentino-one-stud-sneaker/White2.jpg',
-        '/images/products/valentino-one-stud-sneaker/White3.jpg',
-        '/images/products/valentino-one-stud-sneaker/White4.jpg',
-        '/images/products/valentino-one-stud-sneaker/White5.jpg'
+        '/images/products/valentino-one-stud-sneaker/Grey1.webp',
+        '/images/products/valentino-one-stud-sneaker/Grey2.webp',
+        '/images/products/valentino-one-stud-sneaker/Grey3.webp',
+        '/images/products/valentino-one-stud-sneaker/Grey4.webp'
       ]
     },
     {
       color: 'More Color On Flylink',
       images: [
-        '/images/products/valentino-one-stud-sneaker/More Color on Flylink.jpg'
+        '/images/products/valentino-one-stud-sneaker/More Color on Flylink.webp'
+      ]
+    },
+    {
+      color: 'Red',
+      images: [
+        '/images/products/valentino-one-stud-sneaker/Red1.webp',
+        '/images/products/valentino-one-stud-sneaker/Red2.webp',
+        '/images/products/valentino-one-stud-sneaker/Red3.webp',
+        '/images/products/valentino-one-stud-sneaker/Red4.webp',
+        '/images/products/valentino-one-stud-sneaker/Red5.webp'
+      ]
+    },
+    {
+      color: 'White',
+      images: [
+        '/images/products/valentino-one-stud-sneaker/White1.webp',
+        '/images/products/valentino-one-stud-sneaker/White2.webp',
+        '/images/products/valentino-one-stud-sneaker/White3.webp',
+        '/images/products/valentino-one-stud-sneaker/White4.webp',
+        '/images/products/valentino-one-stud-sneaker/White5.webp'
       ]
     }
   ],
   images: [
-    '/images/products/valentino-one-stud-sneaker/Grey1.jpg',
-    '/images/products/valentino-one-stud-sneaker/Red1.jpg',
-    '/images/products/valentino-one-stud-sneaker/White1.jpg',
-    '/images/products/valentino-one-stud-sneaker/More Color on Flylink.jpg'
+    '/images/products/valentino-one-stud-sneaker/Grey1.webp',
+    '/images/products/valentino-one-stud-sneaker/More Color on Flylink.webp',
+    '/images/products/valentino-one-stud-sneaker/Red1.webp',
+    '/images/products/valentino-one-stud-sneaker/White1.webp'
   ],
   colors: [
     'Grey',
+    'More Color On Flylink',
     'Red',
-    'White',
-    'More Color On Flylink'
+    'White'
   ],
   sizes: [
     'Men US 5.5 = Women US 7 = UK 5 = EUR 38',

@@ -12,33 +12,23 @@ export const FogFogEssentialsSuitStyle2Product: Product = {
     {
       color: 'Black',
       images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/fog-fog-essentials-suit-style-2/Black.webp'
       ]
     },
     {
-      color: 'White',
+      color: 'Dark Grey',
       images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Grey',
-      images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/fog-fog-essentials-suit-style-2/Dark-Grey.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/fog-fog-essentials-suit-style-2/Black.webp',
+    '/images/products/fog-fog-essentials-suit-style-2/Dark-Grey.webp'
   ],
   colors: [
     'Black',
-    'White',
-    'Grey'
+    'Dark Grey'
   ],
   sizes: [
     'S',

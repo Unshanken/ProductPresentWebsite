@@ -12,44 +12,44 @@ export const ChromeHeartChromeHeartLongSleeveShirtProduct: Product = {
     {
       color: 'Black',
       images: [
-        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Black-1.jpg',
-        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Black-2.jpg'
+        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Black-1.webp',
+        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Black-2.webp'
       ]
     },
     {
       color: 'Green',
       images: [
-        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Green.jpg'
+        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Green.webp'
       ]
     },
     {
       color: 'Grey',
       images: [
-        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Grey-1.jpg',
-        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Grey-2.jpg'
+        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Grey-1.webp',
+        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Grey-2.webp'
       ]
     },
     {
       color: 'Pink',
       images: [
-        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Pink-1.jpg',
-        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Pink-2.jpg'
+        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Pink-1.webp',
+        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Pink-2.webp'
       ]
     },
     {
       color: 'White',
       images: [
-        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/White-1.jpg',
-        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/White-2.jpg'
+        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/White-1.webp',
+        '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/White-2.webp'
       ]
     }
   ],
   images: [
-    '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Black-1.jpg',
-    '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Green.jpg',
-    '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Grey-1.jpg',
-    '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Pink-1.jpg',
-    '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/White-1.jpg'
+    '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Black-1.webp',
+    '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Green.webp',
+    '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Grey-1.webp',
+    '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/Pink-1.webp',
+    '/images/products/chrome-heart-chrome-heart-long-sleeve-shirt/White-1.webp'
   ],
   colors: [
     'Black',

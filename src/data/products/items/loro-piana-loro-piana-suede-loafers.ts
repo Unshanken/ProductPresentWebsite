@@ -10,103 +10,111 @@ export const LoroPianaLoroPianaSuedeLoafersProduct: Product = {
   flylinkUrl: 'https://store.flylinking.com/g/06ZS9MMG21',
   variants: [
     {
+      color: 'Main',
+      images: [
+        '/images/products/loro-piana-loro-piana-suede-loafers/main.webp'
+      ]
+    },
+    {
       color: 'Black',
       images: [
-        '/images/products/loro-piana-loro-piana-suede-loafers/Black.png'
+        '/images/products/loro-piana-loro-piana-suede-loafers/Black.webp'
       ]
     },
     {
       color: 'Blue',
       images: [
-        '/images/products/loro-piana-loro-piana-suede-loafers/Blue.png'
+        '/images/products/loro-piana-loro-piana-suede-loafers/Blue.webp'
       ]
     },
     {
       color: 'Caramel',
       images: [
-        '/images/products/loro-piana-loro-piana-suede-loafers/caramel1.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/caramel2.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/caramel3.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/caramel4.jpg'
+        '/images/products/loro-piana-loro-piana-suede-loafers/caramel1.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/caramel2.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/caramel3.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/caramel4.webp'
       ]
     },
     {
       color: 'Coffee',
       images: [
-        '/images/products/loro-piana-loro-piana-suede-loafers/coffee1.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/coffee2.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/coffee3.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/coffee4.jpg'
+        '/images/products/loro-piana-loro-piana-suede-loafers/coffee1.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/coffee2.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/coffee3.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/coffee4.webp'
       ]
     },
     {
       color: 'Creme',
       images: [
-        '/images/products/loro-piana-loro-piana-suede-loafers/creme1.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/creme2.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/creme3.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/creme4.jpg'
+        '/images/products/loro-piana-loro-piana-suede-loafers/creme1.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/creme2.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/creme3.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/creme4.webp'
       ]
     },
     {
       color: 'Grey',
       images: [
-        '/images/products/loro-piana-loro-piana-suede-loafers/grey1.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/grey2.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/grey3.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/grey4.jpg'
+        '/images/products/loro-piana-loro-piana-suede-loafers/grey1.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/grey2.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/grey3.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/grey4.webp'
       ]
     },
     {
       color: 'Khaki',
       images: [
-        '/images/products/loro-piana-loro-piana-suede-loafers/khaki1.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/khaki2.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/khaki3.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/khaki4.jpg'
+        '/images/products/loro-piana-loro-piana-suede-loafers/khaki1.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/khaki2.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/khaki3.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/khaki4.webp'
       ]
     },
     {
       color: 'Navy',
       images: [
-        '/images/products/loro-piana-loro-piana-suede-loafers/navy1.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/navy2.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/navy3.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/navy4.jpg'
+        '/images/products/loro-piana-loro-piana-suede-loafers/navy1.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/navy2.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/navy3.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/navy4.webp'
       ]
     },
     {
-      color: 'Sky Blue',
+      color: 'Skyblue',
       images: [
-        '/images/products/loro-piana-loro-piana-suede-loafers/skyblue1.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/skyblue2.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/skyblue3.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/skyblue4.jpg'
+        '/images/products/loro-piana-loro-piana-suede-loafers/skyblue1.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/skyblue2.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/skyblue3.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/skyblue4.webp'
       ]
     },
     {
       color: 'Yellow',
       images: [
-        '/images/products/loro-piana-loro-piana-suede-loafers/yellow1.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/yellow2.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/yellow3.jpg',
-        '/images/products/loro-piana-loro-piana-suede-loafers/yellow4.jpg'
+        '/images/products/loro-piana-loro-piana-suede-loafers/yellow1.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/yellow2.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/yellow3.webp',
+        '/images/products/loro-piana-loro-piana-suede-loafers/yellow4.webp'
       ]
     }
   ],
   images: [
-    '/images/products/loro-piana-loro-piana-suede-loafers/Black.png',
-    '/images/products/loro-piana-loro-piana-suede-loafers/Blue.png',
-    '/images/products/loro-piana-loro-piana-suede-loafers/caramel1.jpg',
-    '/images/products/loro-piana-loro-piana-suede-loafers/coffee1.jpg',
-    '/images/products/loro-piana-loro-piana-suede-loafers/creme1.jpg',
-    '/images/products/loro-piana-loro-piana-suede-loafers/grey1.jpg',
-    '/images/products/loro-piana-loro-piana-suede-loafers/khaki1.jpg',
-    '/images/products/loro-piana-loro-piana-suede-loafers/navy1.jpg',
-    '/images/products/loro-piana-loro-piana-suede-loafers/skyblue1.jpg',
-    '/images/products/loro-piana-loro-piana-suede-loafers/yellow1.jpg'
+    '/images/products/loro-piana-loro-piana-suede-loafers/main.webp',
+    '/images/products/loro-piana-loro-piana-suede-loafers/Black.webp',
+    '/images/products/loro-piana-loro-piana-suede-loafers/Blue.webp',
+    '/images/products/loro-piana-loro-piana-suede-loafers/caramel1.webp',
+    '/images/products/loro-piana-loro-piana-suede-loafers/coffee1.webp',
+    '/images/products/loro-piana-loro-piana-suede-loafers/creme1.webp',
+    '/images/products/loro-piana-loro-piana-suede-loafers/grey1.webp',
+    '/images/products/loro-piana-loro-piana-suede-loafers/khaki1.webp',
+    '/images/products/loro-piana-loro-piana-suede-loafers/navy1.webp',
+    '/images/products/loro-piana-loro-piana-suede-loafers/skyblue1.webp',
+    '/images/products/loro-piana-loro-piana-suede-loafers/yellow1.webp'
   ],
   colors: [
+    'Main',
     'Black',
     'Blue',
     'Caramel',
@@ -115,7 +123,7 @@ export const LoroPianaLoroPianaSuedeLoafersProduct: Product = {
     'Grey',
     'Khaki',
     'Navy',
-    'Sky Blue',
+    'Skyblue',
     'Yellow'
   ],
   sizes: [

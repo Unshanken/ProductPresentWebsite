@@ -14,35 +14,43 @@ export const AloYogaAloYogaSuitProduct: Product = {
     {
       color: 'Black',
       images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/alo-yoga-alo-yoga-suit/Black1.webp',
+        '/images/products/alo-yoga-alo-yoga-suit/Black2.webp',
+        '/images/products/alo-yoga-alo-yoga-suit/Black3.webp'
+      ]
+    },
+    {
+      color: 'Blue',
+      images: [
+        '/images/products/alo-yoga-alo-yoga-suit/Blue.webp'
+      ]
+    },
+    {
+      color: 'Pink',
+      images: [
+        '/images/products/alo-yoga-alo-yoga-suit/Pink.webp'
       ]
     },
     {
       color: 'White',
       images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Grey',
-      images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/alo-yoga-alo-yoga-suit/White.webp'
       ]
     }
   ],
   // Compatibility fields:
   // keep these aligned with variants for older UI paths and fallback logic.
   images: [
-    'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/alo-yoga-alo-yoga-suit/Black1.webp',
+    '/images/products/alo-yoga-alo-yoga-suit/Blue.webp',
+    '/images/products/alo-yoga-alo-yoga-suit/Pink.webp',
+    '/images/products/alo-yoga-alo-yoga-suit/White.webp'
   ],
   colors: [
     'Black',
-    'White',
-    'Grey'
+    'Blue',
+    'Pink',
+    'White'
   ],
   sizes: [
     'S',

@@ -10,27 +10,81 @@ export const BirkenstockBirkenstockBostonProduct: Product = {
   flylinkUrl: 'https://store.flylinking.com/g/JNJEGVZ0Y2',
   variants: [
     {
-      color: 'Black',
+      color: 'Black Leather',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/birkenstock-birkenstock-boston/Black Leather.webp'
       ]
     },
     {
-      color: 'White',
+      color: 'Black Suede',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/birkenstock-birkenstock-boston/Black Suede (1).webp'
+      ]
+    },
+    {
+      color: 'Brown Leather',
+      images: [
+        '/images/products/birkenstock-birkenstock-boston/Brown Leather.webp'
+      ]
+    },
+    {
+      color: 'Dark Brown',
+      images: [
+        '/images/products/birkenstock-birkenstock-boston/Dark Brown (1).webp'
+      ]
+    },
+    {
+      color: 'Light Beige',
+      images: [
+        '/images/products/birkenstock-birkenstock-boston/Light Beige (1) (1).webp'
+      ]
+    },
+    {
+      color: 'Light Grey',
+      images: [
+        '/images/products/birkenstock-birkenstock-boston/Light Grey (1).webp'
+      ]
+    },
+    {
+      color: 'Light Tan',
+      images: [
+        '/images/products/birkenstock-birkenstock-boston/Light Tan (1).webp'
+      ]
+    },
+    {
+      color: 'Medium Tan',
+      images: [
+        '/images/products/birkenstock-birkenstock-boston/Medium Tan (1) (1).webp'
+      ]
+    },
+    {
+      color: 'Taupe',
+      images: [
+        '/images/products/birkenstock-birkenstock-boston/Taupe (1).webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/birkenstock-birkenstock-boston/Black Leather.webp',
+    '/images/products/birkenstock-birkenstock-boston/Black Suede (1).webp',
+    '/images/products/birkenstock-birkenstock-boston/Brown Leather.webp',
+    '/images/products/birkenstock-birkenstock-boston/Dark Brown (1).webp',
+    '/images/products/birkenstock-birkenstock-boston/Light Beige (1) (1).webp',
+    '/images/products/birkenstock-birkenstock-boston/Light Grey (1).webp',
+    '/images/products/birkenstock-birkenstock-boston/Light Tan (1).webp',
+    '/images/products/birkenstock-birkenstock-boston/Medium Tan (1) (1).webp',
+    '/images/products/birkenstock-birkenstock-boston/Taupe (1).webp'
   ],
   colors: [
-    'Black',
-    'White'
+    'Black Leather',
+    'Black Suede',
+    'Brown Leather',
+    'Dark Brown',
+    'Light Beige',
+    'Light Grey',
+    'Light Tan',
+    'Medium Tan',
+    'Taupe'
   ],
   sizes: [
     'Men US 3.5 = Women US 5 = UK 3 = EUR 35.5',

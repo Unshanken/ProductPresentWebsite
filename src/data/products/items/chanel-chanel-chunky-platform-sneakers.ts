@@ -12,55 +12,55 @@ export const ChanelChanelChunkyPlatformSneakersProduct: Product = {
     {
       color: 'Gold',
       images: [
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold1.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold2.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold3.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold4.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold5.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold6.jpg'
-      ]
-    },
-    {
-      color: 'Silver',
-      images: [
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver1.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver2.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver3.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver4.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver5.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver6.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver7.jpg'
-      ]
-    },
-    {
-      color: 'White',
-      images: [
-        '/images/products/chanel-chanel-chunky-platform-sneakers/White1.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/White2.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/White3.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/White4.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/White5.jpg',
-        '/images/products/chanel-chanel-chunky-platform-sneakers/White6.jpg'
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold1.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold2.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold3.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold4.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold5.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Gold6.webp'
       ]
     },
     {
       color: 'More Color On Flylink',
       images: [
-        '/images/products/chanel-chanel-chunky-platform-sneakers/More Color on Flylink.jpg'
+        '/images/products/chanel-chanel-chunky-platform-sneakers/More Color on Flylink.webp'
+      ]
+    },
+    {
+      color: 'Silver',
+      images: [
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver1.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver2.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver3.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver4.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver5.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver6.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/Silver7.webp'
+      ]
+    },
+    {
+      color: 'White',
+      images: [
+        '/images/products/chanel-chanel-chunky-platform-sneakers/White1.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/White2.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/White3.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/White4.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/White5.webp',
+        '/images/products/chanel-chanel-chunky-platform-sneakers/White6.webp'
       ]
     }
   ],
   images: [
-    '/images/products/chanel-chanel-chunky-platform-sneakers/Gold1.jpg',
-    '/images/products/chanel-chanel-chunky-platform-sneakers/Silver1.jpg',
-    '/images/products/chanel-chanel-chunky-platform-sneakers/White1.jpg',
-    '/images/products/chanel-chanel-chunky-platform-sneakers/More Color on Flylink.jpg'
+    '/images/products/chanel-chanel-chunky-platform-sneakers/Gold1.webp',
+    '/images/products/chanel-chanel-chunky-platform-sneakers/More Color on Flylink.webp',
+    '/images/products/chanel-chanel-chunky-platform-sneakers/Silver1.webp',
+    '/images/products/chanel-chanel-chunky-platform-sneakers/White1.webp'
   ],
   colors: [
     'Gold',
+    'More Color On Flylink',
     'Silver',
-    'White',
-    'More Color On Flylink'
+    'White'
   ],
   sizes: [
     'Men US 3.5 = Women US 5 = UK 3 = EUR 35.5',

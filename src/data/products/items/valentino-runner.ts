@@ -12,54 +12,54 @@ export const ValentinoRunnerProduct: Product = {
     {
       color: 'Bronze',
       images: [
-        '/images/products/valentino-runner/Bronze1.jpg',
-        '/images/products/valentino-runner/Bronze2.jpg',
-        '/images/products/valentino-runner/Bronze3.jpg',
-        '/images/products/valentino-runner/Bronze4.jpg',
-        '/images/products/valentino-runner/Bronze5.jpg',
-        '/images/products/valentino-runner/Bronze6.jpg'
+        '/images/products/valentino-runner/Bronze1.webp',
+        '/images/products/valentino-runner/Bronze2.webp',
+        '/images/products/valentino-runner/Bronze3.webp',
+        '/images/products/valentino-runner/Bronze4.webp',
+        '/images/products/valentino-runner/Bronze5.webp',
+        '/images/products/valentino-runner/Bronze6.webp'
       ]
     },
     {
       color: 'Green',
       images: [
-        '/images/products/valentino-runner/Green1.jpg',
-        '/images/products/valentino-runner/Green2.jpg',
-        '/images/products/valentino-runner/Green3.jpg',
-        '/images/products/valentino-runner/Green4.jpg',
-        '/images/products/valentino-runner/Green5.jpg',
-        '/images/products/valentino-runner/Green6.jpg'
-      ]
-    },
-    {
-      color: 'Yellow',
-      images: [
-        '/images/products/valentino-runner/Yellow1.jpg',
-        '/images/products/valentino-runner/Yellow2.jpg',
-        '/images/products/valentino-runner/Yellow3.jpg',
-        '/images/products/valentino-runner/Yellow4.jpg',
-        '/images/products/valentino-runner/Yellow5.jpg',
-        '/images/products/valentino-runner/Yellow6.jpg'
+        '/images/products/valentino-runner/Green1.webp',
+        '/images/products/valentino-runner/Green2.webp',
+        '/images/products/valentino-runner/Green3.webp',
+        '/images/products/valentino-runner/Green4.webp',
+        '/images/products/valentino-runner/Green5.webp',
+        '/images/products/valentino-runner/Green6.webp'
       ]
     },
     {
       color: 'More Color On Flylink',
       images: [
-        '/images/products/valentino-runner/More Color on Flylink.jpg'
+        '/images/products/valentino-runner/More Color on Flylink.webp'
+      ]
+    },
+    {
+      color: 'Yellow',
+      images: [
+        '/images/products/valentino-runner/Yellow1.webp',
+        '/images/products/valentino-runner/Yellow2.webp',
+        '/images/products/valentino-runner/Yellow3.webp',
+        '/images/products/valentino-runner/Yellow4.webp',
+        '/images/products/valentino-runner/Yellow5.webp',
+        '/images/products/valentino-runner/Yellow6.webp'
       ]
     }
   ],
   images: [
-    '/images/products/valentino-runner/Bronze1.jpg',
-    '/images/products/valentino-runner/Green1.jpg',
-    '/images/products/valentino-runner/Yellow1.jpg',
-    '/images/products/valentino-runner/More Color on Flylink.jpg'
+    '/images/products/valentino-runner/Bronze1.webp',
+    '/images/products/valentino-runner/Green1.webp',
+    '/images/products/valentino-runner/More Color on Flylink.webp',
+    '/images/products/valentino-runner/Yellow1.webp'
   ],
   colors: [
     'Bronze',
     'Green',
-    'Yellow',
-    'More Color On Flylink'
+    'More Color On Flylink',
+    'Yellow'
   ],
   sizes: [
     'Men US 5.5 = Women US 7 = UK 5 = EUR 38',

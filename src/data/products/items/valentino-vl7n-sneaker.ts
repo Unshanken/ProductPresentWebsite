@@ -12,63 +12,63 @@ export const ValentinoVl7nSneakerProduct: Product = {
     {
       color: 'Black',
       images: [
-        '/images/products/valentino-vl7n-sneaker/Black1.jpg',
-        '/images/products/valentino-vl7n-sneaker/Black2.jpg',
-        '/images/products/valentino-vl7n-sneaker/Black3.jpg',
-        '/images/products/valentino-vl7n-sneaker/Black4.jpg',
-        '/images/products/valentino-vl7n-sneaker/Black5.jpg'
+        '/images/products/valentino-vl7n-sneaker/Black1.webp',
+        '/images/products/valentino-vl7n-sneaker/Black2.webp',
+        '/images/products/valentino-vl7n-sneaker/Black3.webp',
+        '/images/products/valentino-vl7n-sneaker/Black4.webp',
+        '/images/products/valentino-vl7n-sneaker/Black5.webp'
       ]
     },
     {
       color: 'Blue',
       images: [
-        '/images/products/valentino-vl7n-sneaker/Blue1.jpg',
-        '/images/products/valentino-vl7n-sneaker/Blue2.jpg',
-        '/images/products/valentino-vl7n-sneaker/Blue3.jpg',
-        '/images/products/valentino-vl7n-sneaker/Blue4.jpg',
-        '/images/products/valentino-vl7n-sneaker/Blue5.jpg'
-      ]
-    },
-    {
-      color: 'Panda',
-      images: [
-        '/images/products/valentino-vl7n-sneaker/Panda1.jpg',
-        '/images/products/valentino-vl7n-sneaker/Panda2.jpg',
-        '/images/products/valentino-vl7n-sneaker/Panda3.jpg',
-        '/images/products/valentino-vl7n-sneaker/Panda4.jpg'
-      ]
-    },
-    {
-      color: 'White',
-      images: [
-        '/images/products/valentino-vl7n-sneaker/White1.jpg',
-        '/images/products/valentino-vl7n-sneaker/White2.jpg',
-        '/images/products/valentino-vl7n-sneaker/White3.jpg',
-        '/images/products/valentino-vl7n-sneaker/White4.jpg',
-        '/images/products/valentino-vl7n-sneaker/White5.jpg',
-        '/images/products/valentino-vl7n-sneaker/White6.jpg'
+        '/images/products/valentino-vl7n-sneaker/Blue1.webp',
+        '/images/products/valentino-vl7n-sneaker/Blue2.webp',
+        '/images/products/valentino-vl7n-sneaker/Blue3.webp',
+        '/images/products/valentino-vl7n-sneaker/Blue4.webp',
+        '/images/products/valentino-vl7n-sneaker/Blue5.webp'
       ]
     },
     {
       color: 'More Color On Flylink',
       images: [
-        '/images/products/valentino-vl7n-sneaker/More Color on Flylink.jpg'
+        '/images/products/valentino-vl7n-sneaker/More Color on Flylink.webp'
+      ]
+    },
+    {
+      color: 'Panda',
+      images: [
+        '/images/products/valentino-vl7n-sneaker/Panda1.webp',
+        '/images/products/valentino-vl7n-sneaker/Panda2.webp',
+        '/images/products/valentino-vl7n-sneaker/Panda3.webp',
+        '/images/products/valentino-vl7n-sneaker/Panda4.webp'
+      ]
+    },
+    {
+      color: 'White',
+      images: [
+        '/images/products/valentino-vl7n-sneaker/White1.webp',
+        '/images/products/valentino-vl7n-sneaker/White2.webp',
+        '/images/products/valentino-vl7n-sneaker/White3.webp',
+        '/images/products/valentino-vl7n-sneaker/White4.webp',
+        '/images/products/valentino-vl7n-sneaker/White5.webp',
+        '/images/products/valentino-vl7n-sneaker/White6.webp'
       ]
     }
   ],
   images: [
-    '/images/products/valentino-vl7n-sneaker/Black1.jpg',
-    '/images/products/valentino-vl7n-sneaker/Blue1.jpg',
-    '/images/products/valentino-vl7n-sneaker/Panda1.jpg',
-    '/images/products/valentino-vl7n-sneaker/White1.jpg',
-    '/images/products/valentino-vl7n-sneaker/More Color on Flylink.jpg'
+    '/images/products/valentino-vl7n-sneaker/Black1.webp',
+    '/images/products/valentino-vl7n-sneaker/Blue1.webp',
+    '/images/products/valentino-vl7n-sneaker/More Color on Flylink.webp',
+    '/images/products/valentino-vl7n-sneaker/Panda1.webp',
+    '/images/products/valentino-vl7n-sneaker/White1.webp'
   ],
   colors: [
     'Black',
     'Blue',
+    'More Color On Flylink',
     'Panda',
-    'White',
-    'More Color On Flylink'
+    'White'
   ],
   sizes: [
     'Men US 5.5 = Women US 7 = UK 5 = EUR 38',

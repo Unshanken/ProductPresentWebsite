@@ -12,25 +12,44 @@ export const AirJordanAirJordan5Product: Product = {
     {
       color: 'Black',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-5/Black1.webp',
+        '/images/products/air-jordan-air-jordan-5/Black2.webp',
+        '/images/products/air-jordan-air-jordan-5/Black3.webp',
+        '/images/products/air-jordan-air-jordan-5/Black4.webp'
       ]
     },
     {
-      color: 'White',
+      color: 'Black Blue',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-5/Black-Blue1.webp',
+        '/images/products/air-jordan-air-jordan-5/Black-Blue2.webp',
+        '/images/products/air-jordan-air-jordan-5/Black-Blue3.webp',
+        '/images/products/air-jordan-air-jordan-5/Black-Blue4.webp',
+        '/images/products/air-jordan-air-jordan-5/Black-Blue5.webp'
+      ]
+    },
+    {
+      color: 'Black Red',
+      images: [
+        '/images/products/air-jordan-air-jordan-5/Black-Red1.webp',
+        '/images/products/air-jordan-air-jordan-5/Black-Red2.webp',
+        '/images/products/air-jordan-air-jordan-5/Black-Red3.webp',
+        '/images/products/air-jordan-air-jordan-5/Black-Red4.webp',
+        '/images/products/air-jordan-air-jordan-5/Black-Red5.webp',
+        '/images/products/air-jordan-air-jordan-5/Black-Red6.webp',
+        '/images/products/air-jordan-air-jordan-5/Black-Red7.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/air-jordan-air-jordan-5/Black1.webp',
+    '/images/products/air-jordan-air-jordan-5/Black-Blue1.webp',
+    '/images/products/air-jordan-air-jordan-5/Black-Red1.webp'
   ],
   colors: [
     'Black',
-    'White'
+    'Black Blue',
+    'Black Red'
   ],
   sizes: [
     'Men US 4 = Women US 5.5 = UK 3.5 = EUR 36',

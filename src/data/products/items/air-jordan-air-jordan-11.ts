@@ -10,27 +10,51 @@ export const AirJordanAirJordan11Product: Product = {
   flylinkUrl: 'https://store.flylinking.com/g/PVDPDY9XTL',
   variants: [
     {
-      color: 'Black',
+      color: 'Black Low',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-11/Black-Low1.webp',
+        '/images/products/air-jordan-air-jordan-11/Black-Low2.webp',
+        '/images/products/air-jordan-air-jordan-11/Black-Low3.webp',
+        '/images/products/air-jordan-air-jordan-11/Black-Low4.webp',
+        '/images/products/air-jordan-air-jordan-11/Black-Low5.webp',
+        '/images/products/air-jordan-air-jordan-11/Black-Low6.webp',
+        '/images/products/air-jordan-air-jordan-11/Black-Low7.webp'
       ]
     },
     {
-      color: 'White',
+      color: 'Blue',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-11/Blue1.webp',
+        '/images/products/air-jordan-air-jordan-11/Blue2.webp',
+        '/images/products/air-jordan-air-jordan-11/Blue3.webp',
+        '/images/products/air-jordan-air-jordan-11/Blue4.webp',
+        '/images/products/air-jordan-air-jordan-11/Blue5.webp',
+        '/images/products/air-jordan-air-jordan-11/Blue6.webp',
+        '/images/products/air-jordan-air-jordan-11/Blue7.webp'
+      ]
+    },
+    {
+      color: 'White Black',
+      images: [
+        '/images/products/air-jordan-air-jordan-11/White-Black1.webp',
+        '/images/products/air-jordan-air-jordan-11/White-Black2.webp',
+        '/images/products/air-jordan-air-jordan-11/White-Black3.webp',
+        '/images/products/air-jordan-air-jordan-11/White-Black4.webp',
+        '/images/products/air-jordan-air-jordan-11/White-Black5.webp',
+        '/images/products/air-jordan-air-jordan-11/White-Black6.webp',
+        '/images/products/air-jordan-air-jordan-11/White-Black7.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/air-jordan-air-jordan-11/Black-Low1.webp',
+    '/images/products/air-jordan-air-jordan-11/Blue1.webp',
+    '/images/products/air-jordan-air-jordan-11/White-Black1.webp'
   ],
   colors: [
-    'Black',
-    'White'
+    'Black Low',
+    'Blue',
+    'White Black'
   ],
   sizes: [
     'Men US 4 = Women US 5.5 = UK 3.5 = EUR 36',

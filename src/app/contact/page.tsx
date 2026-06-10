@@ -50,7 +50,7 @@ export default function ContactPage() {
             <div className="mt-10 grid gap-5 sm:grid-cols-2">
               <div className="surface-card rounded-[1.75rem] p-5">
                 <p className="text-xs uppercase tracking-[0.28em] text-muted">Email</p>
-                <p className="mt-4 text-lg text-foreground">kai.w@themodedistrict.com</p>
+                <p className="mt-4 text-lg text-foreground">kai@themodedistrict.com</p>
               </div>
               <div className="surface-card rounded-[1.75rem] p-5">
                 <p className="text-xs uppercase tracking-[0.28em] text-muted">Tiktok</p>
@@ -90,7 +90,7 @@ export default function ContactPage() {
 
             <div className="mt-10 flex flex-col gap-4 sm:flex-row">
               <Link
-                href="mailto:studio@themodedistrict.com"
+                href="mailto:kai@themodedistrict.com"
                 className="button-primary"
               >
                 Send Email

@@ -12,33 +12,63 @@ export const Sp5derSp5derHoodiesProduct: Product = {
     {
       color: 'Black',
       images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/sp5der-sp5der-hoodies/Black.webp'
       ]
     },
     {
-      color: 'White',
+      color: 'Black Pink',
       images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/sp5der-sp5der-hoodies/Black-Pink.webp'
       ]
     },
     {
-      color: 'Grey',
+      color: 'Blue',
       images: [
-        'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/sp5der-sp5der-hoodies/Blue.webp'
+      ]
+    },
+    {
+      color: 'Green',
+      images: [
+        '/images/products/sp5der-sp5der-hoodies/Green.webp'
+      ]
+    },
+    {
+      color: 'Navy',
+      images: [
+        '/images/products/sp5der-sp5der-hoodies/Navy.webp'
+      ]
+    },
+    {
+      color: 'Navy Yellow',
+      images: [
+        '/images/products/sp5der-sp5der-hoodies/Navy-Yellow.webp'
+      ]
+    },
+    {
+      color: 'Violet',
+      images: [
+        '/images/products/sp5der-sp5der-hoodies/Violet.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/sp5der-sp5der-hoodies/Black.webp',
+    '/images/products/sp5der-sp5der-hoodies/Black-Pink.webp',
+    '/images/products/sp5der-sp5der-hoodies/Blue.webp',
+    '/images/products/sp5der-sp5der-hoodies/Green.webp',
+    '/images/products/sp5der-sp5der-hoodies/Navy.webp',
+    '/images/products/sp5der-sp5der-hoodies/Navy-Yellow.webp',
+    '/images/products/sp5der-sp5der-hoodies/Violet.webp'
   ],
   colors: [
     'Black',
-    'White',
-    'Grey'
+    'Black Pink',
+    'Blue',
+    'Green',
+    'Navy',
+    'Navy Yellow',
+    'Violet'
   ],
   sizes: [
     'S',

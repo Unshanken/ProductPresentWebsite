@@ -12,48 +12,48 @@ export const DiorDiorB30LowTopSneakerProduct: Product = {
     {
       color: 'Black',
       images: [
-        '/images/products/dior-dior-b30-low-top-sneaker/Black1.jpg',
-        '/images/products/dior-dior-b30-low-top-sneaker/Black2.jpg',
-        '/images/products/dior-dior-b30-low-top-sneaker/Black3.jpg',
-        '/images/products/dior-dior-b30-low-top-sneaker/Black4.jpg'
-      ]
-    },
-    {
-      color: 'Silver',
-      images: [
-        '/images/products/dior-dior-b30-low-top-sneaker/Silver1.jpg',
-        '/images/products/dior-dior-b30-low-top-sneaker/Silver2.jpg',
-        '/images/products/dior-dior-b30-low-top-sneaker/Silver3.jpg',
-        '/images/products/dior-dior-b30-low-top-sneaker/Silver4.jpg'
-      ]
-    },
-    {
-      color: 'White',
-      images: [
-        '/images/products/dior-dior-b30-low-top-sneaker/White1.jpg',
-        '/images/products/dior-dior-b30-low-top-sneaker/White2.jpg',
-        '/images/products/dior-dior-b30-low-top-sneaker/White3.jpg',
-        '/images/products/dior-dior-b30-low-top-sneaker/White4.jpg'
+        '/images/products/dior-dior-b30-low-top-sneaker/Black1.webp',
+        '/images/products/dior-dior-b30-low-top-sneaker/Black2.webp',
+        '/images/products/dior-dior-b30-low-top-sneaker/Black3.webp',
+        '/images/products/dior-dior-b30-low-top-sneaker/Black4.webp'
       ]
     },
     {
       color: 'More Color On Flylink',
       images: [
-        '/images/products/dior-dior-b30-low-top-sneaker/More Color on Flylink.jpg'
+        '/images/products/dior-dior-b30-low-top-sneaker/More Color on Flylink.webp'
+      ]
+    },
+    {
+      color: 'Silver',
+      images: [
+        '/images/products/dior-dior-b30-low-top-sneaker/Silver1.webp',
+        '/images/products/dior-dior-b30-low-top-sneaker/Silver2.webp',
+        '/images/products/dior-dior-b30-low-top-sneaker/Silver3.webp',
+        '/images/products/dior-dior-b30-low-top-sneaker/Silver4.webp'
+      ]
+    },
+    {
+      color: 'White',
+      images: [
+        '/images/products/dior-dior-b30-low-top-sneaker/White1.webp',
+        '/images/products/dior-dior-b30-low-top-sneaker/White2.webp',
+        '/images/products/dior-dior-b30-low-top-sneaker/White3.webp',
+        '/images/products/dior-dior-b30-low-top-sneaker/White4.webp'
       ]
     }
   ],
   images: [
-    '/images/products/dior-dior-b30-low-top-sneaker/Black1.jpg',
-    '/images/products/dior-dior-b30-low-top-sneaker/Silver1.jpg',
-    '/images/products/dior-dior-b30-low-top-sneaker/White1.jpg',
-    '/images/products/dior-dior-b30-low-top-sneaker/More Color on Flylink.jpg'
+    '/images/products/dior-dior-b30-low-top-sneaker/Black1.webp',
+    '/images/products/dior-dior-b30-low-top-sneaker/More Color on Flylink.webp',
+    '/images/products/dior-dior-b30-low-top-sneaker/Silver1.webp',
+    '/images/products/dior-dior-b30-low-top-sneaker/White1.webp'
   ],
   colors: [
     'Black',
+    'More Color On Flylink',
     'Silver',
-    'White',
-    'More Color On Flylink'
+    'White'
   ],
   sizes: [
     'Men US 4 = Women US 5.5 = UK 3.5 = EUR 36',

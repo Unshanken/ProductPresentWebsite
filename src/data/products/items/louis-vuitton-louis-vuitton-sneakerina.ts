@@ -10,56 +10,56 @@ export const LouisVuittonLouisVuittonSneakerinaProduct: Product = {
   flylinkUrl: 'https://store.flylinking.com/g/IZMU22HRWP',
   variants: [
     {
+      color: 'More Color On Flylink',
+      images: [
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/More Color on Flylink.webp'
+      ]
+    },
+    {
       color: 'Pink',
       images: [
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink1.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink2.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink3.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink4.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink5.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink6.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink7.jpg'
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink1.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink2.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink3.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink4.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink5.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink6.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink7.webp'
       ]
     },
     {
       color: 'Red',
       images: [
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red1.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red2.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red3.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red4.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red5.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red6.jpg'
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red1.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red2.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red3.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red4.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red5.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red6.webp'
       ]
     },
     {
       color: 'White',
       images: [
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/White1.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/White2.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/White3.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/White4.jpg',
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/White5.jpg'
-      ]
-    },
-    {
-      color: 'More Color On Flylink',
-      images: [
-        '/images/products/louis-vuitton-louis-vuitton-sneakerina/More Color on Flylink.jpg'
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/White1.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/White2.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/White3.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/White4.webp',
+        '/images/products/louis-vuitton-louis-vuitton-sneakerina/White5.webp'
       ]
     }
   ],
   images: [
-    '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink1.jpg',
-    '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red1.jpg',
-    '/images/products/louis-vuitton-louis-vuitton-sneakerina/White1.jpg',
-    '/images/products/louis-vuitton-louis-vuitton-sneakerina/More Color on Flylink.jpg'
+    '/images/products/louis-vuitton-louis-vuitton-sneakerina/More Color on Flylink.webp',
+    '/images/products/louis-vuitton-louis-vuitton-sneakerina/Pink1.webp',
+    '/images/products/louis-vuitton-louis-vuitton-sneakerina/Red1.webp',
+    '/images/products/louis-vuitton-louis-vuitton-sneakerina/White1.webp'
   ],
   colors: [
+    'More Color On Flylink',
     'Pink',
     'Red',
-    'White',
-    'More Color On Flylink'
+    'White'
   ],
   sizes: [
     'Women US 5 = UK 3 = EUR 35.5',

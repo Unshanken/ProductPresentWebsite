@@ -12,25 +12,39 @@ export const NikeNikeClogpositeSlideProduct: Product = {
     {
       color: 'Black',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/nike-nike-clogposite-slide/Black.webp'
       ]
     },
     {
-      color: 'White',
+      color: 'Creme',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/nike-nike-clogposite-slide/Creme.webp'
+      ]
+    },
+    {
+      color: 'Grey',
+      images: [
+        '/images/products/nike-nike-clogposite-slide/Grey.webp'
+      ]
+    },
+    {
+      color: 'Red',
+      images: [
+        '/images/products/nike-nike-clogposite-slide/Red.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/nike-nike-clogposite-slide/Black.webp',
+    '/images/products/nike-nike-clogposite-slide/Creme.webp',
+    '/images/products/nike-nike-clogposite-slide/Grey.webp',
+    '/images/products/nike-nike-clogposite-slide/Red.webp'
   ],
   colors: [
     'Black',
-    'White'
+    'Creme',
+    'Grey',
+    'Red'
   ],
   sizes: [
     'Men US 4 = Women US 5.5 = UK 3.5 = EUR 36',

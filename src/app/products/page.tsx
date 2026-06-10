@@ -16,11 +16,11 @@ import {
 import type { BrandSlug, CategorySlug, Product } from "@/types";
 
 type ProductsPageProps = {
-  searchParams?: {
+  searchParams?: Promise<{
     category?: string;
     brand?: string;
     q?: string;
-  };
+  }>;
 };
 
 function filterProducts({
@@ -66,9 +66,10 @@ export async function generateMetadata({
   searchParams
 }: ProductsPageProps): Promise<Metadata> {
   const site = getSiteContent();
-  const activeCategory = searchParams?.category as CategorySlug | undefined;
-  const activeBrand = searchParams?.brand as BrandSlug | undefined;
-  const keyword = searchParams?.q?.trim();
+  const resolvedSearchParams = await searchParams;
+  const activeCategory = resolvedSearchParams?.category as CategorySlug | undefined;
+  const activeBrand = resolvedSearchParams?.brand as BrandSlug | undefined;
+  const keyword = resolvedSearchParams?.q?.trim();
   const categoryName = activeCategory ? getCategoryBySlug(activeCategory)?.name : undefined;
   const brandName = activeBrand ? getBrandBySlug(activeBrand)?.name : undefined;
 
@@ -103,13 +104,14 @@ export async function generateMetadata({
   };
 }
 
-export default function ProductsPage({ searchParams }: ProductsPageProps) {
+export default async function ProductsPage({ searchParams }: ProductsPageProps) {
   const products = getProducts();
   const categories = getCategories();
   const brands = getBrands();
-  const activeCategory = searchParams?.category as CategorySlug | undefined;
-  const activeBrand = searchParams?.brand as BrandSlug | undefined;
-  const keyword = searchParams?.q?.trim() ?? "";
+  const resolvedSearchParams = await searchParams;
+  const activeCategory = resolvedSearchParams?.category as CategorySlug | undefined;
+  const activeBrand = resolvedSearchParams?.brand as BrandSlug | undefined;
+  const keyword = resolvedSearchParams?.q?.trim() ?? "";
   const filteredProducts = filterProducts({
     products,
     category: activeCategory,

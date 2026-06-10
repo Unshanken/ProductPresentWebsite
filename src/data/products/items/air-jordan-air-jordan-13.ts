@@ -12,25 +12,35 @@ export const AirJordanAirJordan13Product: Product = {
     {
       color: 'Black',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-13/Black1.webp',
+        '/images/products/air-jordan-air-jordan-13/Black2.webp',
+        '/images/products/air-jordan-air-jordan-13/Black3.webp',
+        '/images/products/air-jordan-air-jordan-13/Black4.webp',
+        '/images/products/air-jordan-air-jordan-13/Black5.webp',
+        '/images/products/air-jordan-air-jordan-13/Black6.webp',
+        '/images/products/air-jordan-air-jordan-13/Black7.webp'
       ]
     },
     {
-      color: 'White',
+      color: 'White Grey',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-13/White-Grey1.webp',
+        '/images/products/air-jordan-air-jordan-13/White-Grey2.webp',
+        '/images/products/air-jordan-air-jordan-13/White-Grey3.webp',
+        '/images/products/air-jordan-air-jordan-13/White-Grey4.webp',
+        '/images/products/air-jordan-air-jordan-13/White-Grey5.webp',
+        '/images/products/air-jordan-air-jordan-13/White-Grey6.webp',
+        '/images/products/air-jordan-air-jordan-13/White-Grey7.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/air-jordan-air-jordan-13/Black1.webp',
+    '/images/products/air-jordan-air-jordan-13/White-Grey1.webp'
   ],
   colors: [
     'Black',
-    'White'
+    'White Grey'
   ],
   sizes: [
     'Men US 4 = Women US 5.5 = UK 3.5 = EUR 36',

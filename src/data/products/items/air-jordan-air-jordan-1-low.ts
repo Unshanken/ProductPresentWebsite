@@ -10,131 +10,66 @@ export const AirJordanAirJordan1LowProduct: Product = {
   flylinkUrl: 'https://store.flylinking.com/g/WZM7FWUZFY',
   variants: [
     {
-      color: 'X-Fragment',
+      color: 'Brown',
       images: [
-        'https://images.unsplash.com/photo-1607522370275-f14206abe5d3?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-1-low/Brown1.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Brown2.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Brown3.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Brown4.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Brown5.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Brown6.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Brown7.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Brown8.webp'
       ]
     },
     {
-      color: 'OG TS SP',
+      color: 'Oliver',
       images: [
-        'https://images.unsplash.com/photo-1514989940723-e8e51635b782?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1605348532760-6753d2c43329?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-1-low/Oliver1.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Oliver2.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Oliver3.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Oliver4.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Oliver5.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Oliver6.webp'
       ]
     },
     {
-      color: 'White Camo',
+      color: 'Red',
       images: [
-        'https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1543508282-6319a3e2621f?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-1-low/Red1.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Red2.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Red3.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Red4.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Red5.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Red6.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Red7.webp',
+        '/images/products/air-jordan-air-jordan-1-low/Red8.webp'
       ]
     },
     {
-      color: 'UNC',
+      color: 'X Fragment',
       images: [
-        'https://images.unsplash.com/photo-1579338559194-a162d19bf842?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Triple White',
-      images: [
-        'https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Tiffany Green',
-      images: [
-        'https://images.unsplash.com/photo-1600269452121-4f2416e55c28?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Shattered BackBoard',
-      images: [
-        'https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Shadow Toe',
-      images: [
-        'https://images.unsplash.com/photo-1605348532760-6753d2c43329?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1605408499391-6368c628ef42?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Sail&Ridger Rock',
-      images: [
-        'https://images.unsplash.com/photo-1543508282-6319a3e2621f?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Medium Olive',
-      images: [
-        'https://images.unsplash.com/photo-1579338559194-a162d19bf842?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'SE',
-      images: [
-        'https://images.unsplash.com/photo-1600269452121-4f2416e55c28?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Black Toe',
-      images: [
-        'https://images.unsplash.com/photo-1514989940723-e8e51635b782?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Reverse Tiffaney',
-      images: [
-        'https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1605408499391-6368c628ef42?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Red White Black',
-      images: [
-        'https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80'
-      ]
-    },
-    {
-      color: 'Paint Drip',
-      images: [
-        'https://images.unsplash.com/photo-1607522370275-f14206abe5d3?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/air-jordan-air-jordan-1-low/X-Fragment1.webp',
+        '/images/products/air-jordan-air-jordan-1-low/X-Fragment2.webp',
+        '/images/products/air-jordan-air-jordan-1-low/X-Fragment3.webp',
+        '/images/products/air-jordan-air-jordan-1-low/X-Fragment4.webp',
+        '/images/products/air-jordan-air-jordan-1-low/X-Fragment5.webp',
+        '/images/products/air-jordan-air-jordan-1-low/X-Fragment6.webp',
+        '/images/products/air-jordan-air-jordan-1-low/X-Fragment7.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/air-jordan-air-jordan-1-low/Brown1.webp',
+    '/images/products/air-jordan-air-jordan-1-low/Oliver1.webp',
+    '/images/products/air-jordan-air-jordan-1-low/Red1.webp',
+    '/images/products/air-jordan-air-jordan-1-low/X-Fragment1.webp'
   ],
   colors: [
-    'X-Fragment',
-    'OG TS SP',
-    'White Camo',
-    'UNC',
-    'Triple White',
-    'Tiffany Green',
-    'Shattered BackBoard',
-    'Shadow Toe',
-    'Sail&Ridger Rock',
-    'Medium Olive',
-    'SE',
-    'Black Toe',
-    'Reverse Tiffaney',
-    'Red White Black',
-    'Paint Drip'
+    'Brown',
+    'Oliver',
+    'Red',
+    'X Fragment'
   ],
   sizes: [
     'Men US 4 = Women US 5.5 = UK 3.5 = EUR 36',

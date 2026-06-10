@@ -12,25 +12,80 @@ export const ToryBurchToryBurchMillerThongSandalsProduct: Product = {
     {
       color: 'Black',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/tory-burch-tory-burch-miller-thong-sandals/Black.webp',
+        '/images/products/tory-burch-tory-burch-miller-thong-sandals/Black2.webp'
+      ]
+    },
+    {
+      color: 'Brown',
+      images: [
+        '/images/products/tory-burch-tory-burch-miller-thong-sandals/Brown.webp'
+      ]
+    },
+    {
+      color: 'Creme',
+      images: [
+        '/images/products/tory-burch-tory-burch-miller-thong-sandals/Creme.webp'
+      ]
+    },
+    {
+      color: 'Gold',
+      images: [
+        '/images/products/tory-burch-tory-burch-miller-thong-sandals/Gold.webp'
+      ]
+    },
+    {
+      color: 'Orange',
+      images: [
+        '/images/products/tory-burch-tory-burch-miller-thong-sandals/Orange.webp'
+      ]
+    },
+    {
+      color: 'Pink',
+      images: [
+        '/images/products/tory-burch-tory-burch-miller-thong-sandals/Pink.webp'
+      ]
+    },
+    {
+      color: 'Red',
+      images: [
+        '/images/products/tory-burch-tory-burch-miller-thong-sandals/Red.webp'
       ]
     },
     {
       color: 'White',
       images: [
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-        'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+        '/images/products/tory-burch-tory-burch-miller-thong-sandals/White.webp'
+      ]
+    },
+    {
+      color: 'Yellow',
+      images: [
+        '/images/products/tory-burch-tory-burch-miller-thong-sandals/Yellow.webp'
       ]
     }
   ],
   images: [
-    'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
-    'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
+    '/images/products/tory-burch-tory-burch-miller-thong-sandals/Black.webp',
+    '/images/products/tory-burch-tory-burch-miller-thong-sandals/Brown.webp',
+    '/images/products/tory-burch-tory-burch-miller-thong-sandals/Creme.webp',
+    '/images/products/tory-burch-tory-burch-miller-thong-sandals/Gold.webp',
+    '/images/products/tory-burch-tory-burch-miller-thong-sandals/Orange.webp',
+    '/images/products/tory-burch-tory-burch-miller-thong-sandals/Pink.webp',
+    '/images/products/tory-burch-tory-burch-miller-thong-sandals/Red.webp',
+    '/images/products/tory-burch-tory-burch-miller-thong-sandals/White.webp',
+    '/images/products/tory-burch-tory-burch-miller-thong-sandals/Yellow.webp'
   ],
   colors: [
     'Black',
-    'White'
+    'Brown',
+    'Creme',
+    'Gold',
+    'Orange',
+    'Pink',
+    'Red',
+    'White',
+    'Yellow'
   ],
   sizes: [
     'Women US 5 = UK 3 = EUR 35.5',

@@ -14,9 +14,9 @@ import {
 } from "@/lib/data";
 
 type ProductDetailPageProps = {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 };
 
 export async function generateStaticParams() {
@@ -28,7 +28,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params
 }: ProductDetailPageProps): Promise<Metadata> {
-  const { slug } = params;
+  const { slug } = await params;
   const product = getProductBySlug(slug);
   const site = getSiteContent();
 
@@ -87,7 +87,7 @@ export async function generateMetadata({
 export default async function ProductDetailPage({
   params
 }: ProductDetailPageProps) {
-  const { slug } = params;
+  const { slug } = await params;
   const product = getProductBySlug(slug);
 
   if (!product) {
