@@ -73,7 +73,7 @@ export const AlexanderMcqueenOversizedLeatherSneakerProduct: Product = {
   ],
   featured: false,
   newArrival: false,
-  priceLabel: '$99.99',
+  priceLabel: '$109.99',
   materials: [
   'Soft calfskin leather upper (anti-crease, stain-resistant)',
   'Lambskin blend lining',

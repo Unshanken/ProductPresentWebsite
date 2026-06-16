@@ -60,7 +60,7 @@ export const AloYogaAloYogaSuitProduct: Product = {
   ],
   featured: false,
   newArrival: true,
-  priceLabel: '$99.99',
+  priceLabel: '$79.99',
   materials: [
     'Cotton blend',
     'Soft brushed fabric'

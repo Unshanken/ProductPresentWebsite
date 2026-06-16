@@ -62,7 +62,7 @@ export const NikeNikeClogpositeSlideProduct: Product = {
   ],
   featured: false,
   newArrival: false,
-  priceLabel: '$59.99',
+  priceLabel: '$79.99',
   materials: [
     'Leather upper',
     'Rubber outsole',

@@ -71,7 +71,7 @@ export const ChanelChanelSneakerProduct: Product = {
   ],
   featured: false,
   newArrival: false,
-  priceLabel: '$141.99',
+  priceLabel: '$149.99',
   materials: [
     'Leather upper',
     'Rubber outsole',

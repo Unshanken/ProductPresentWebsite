@@ -36,7 +36,7 @@ export const DiorDiorWomenBoootsProduct: Product = {
   ],
   featured: false,
   newArrival: true,
-  priceLabel: '$161.99',
+  priceLabel: '$169.99',
   materials: [
     'Leather upper',
     'Rubber outsole',

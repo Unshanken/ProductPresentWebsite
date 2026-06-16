@@ -59,7 +59,7 @@ export const UggUggClassicUltraMiniProduct: Product = {
   ],
   featured: true,
   newArrival: false,
-  priceLabel: '$69.99',
+  priceLabel: '$89.99',
   materials: [
     'Leather upper',
     'Rubber outsole',

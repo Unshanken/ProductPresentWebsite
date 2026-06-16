@@ -73,7 +73,7 @@ export const AirJordanAirJordan11Product: Product = {
   ],
   featured: true,
   newArrival: false,
-  priceLabel: '$59.99',
+  priceLabel: '$79.99',
   materials: [
     'Leather upper',
     'Rubber outsole',

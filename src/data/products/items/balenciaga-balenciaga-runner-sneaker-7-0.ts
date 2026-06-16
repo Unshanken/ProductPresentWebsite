@@ -108,7 +108,7 @@ export const BalenciagaBalenciagaRunnerSneaker70Product: Product = {
   ],
   featured: false,
   newArrival: false,
-  priceLabel: '$109.99',
+  priceLabel: '$129.99',
   materials: [
   'Distressed mesh and synthetic upper',
   'Layered panel construction',

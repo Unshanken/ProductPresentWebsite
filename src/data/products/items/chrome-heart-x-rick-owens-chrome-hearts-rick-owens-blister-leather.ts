@@ -50,7 +50,7 @@ export const ChromeHeartXRickOwensChromeHeartsRickOwensBlisterLeatherProduct: Pr
   ],
   featured: true,
   newArrival: false,
-  priceLabel: '$109.99',
+  priceLabel: '$129.99',
   materials: [
     'Leather upper',
     'Rubber outsole',

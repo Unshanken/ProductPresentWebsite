@@ -58,7 +58,7 @@ export const FogFogEssentialsSuitProduct: Product = {
   ],
   featured: false,
   newArrival: false,
-  priceLabel: '$54.99',
+  priceLabel: '$59.99',
   materials: [
     'Cotton blend',
     'Soft brushed fabric'

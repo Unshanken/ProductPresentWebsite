@@ -54,7 +54,7 @@ export const UggUggTazzPlatformSlipperProduct: Product = {
   ],
   featured: false,
   newArrival: false,
-  priceLabel: '$59.99',
+  priceLabel: '$89.99',
   materials: [
     'Leather upper',
     'Rubber outsole',

@@ -83,7 +83,7 @@ export const DiorDiorSneakersB57Product: Product = {
   ],
   featured: false,
   newArrival: false,
-  priceLabel: '$142.99',
+  priceLabel: '$149.99',
   materials: [
   'Smooth calfskin leather upper',
   'Dior Oblique jacquard detailing',

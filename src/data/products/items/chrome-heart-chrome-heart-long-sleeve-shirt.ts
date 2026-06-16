@@ -66,7 +66,7 @@ export const ChromeHeartChromeHeartLongSleeveShirtProduct: Product = {
   ],
   featured: false,
   newArrival: true,
-  priceLabel: '$49.99',
+  priceLabel: '$59.99',
   materials: [
     'Cotton blend',
     'Soft brushed fabric'

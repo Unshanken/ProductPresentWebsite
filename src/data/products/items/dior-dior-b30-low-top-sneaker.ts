@@ -71,7 +71,7 @@ export const DiorDiorB30LowTopSneakerProduct: Product = {
   ],
   featured: false,
   newArrival: true,
-  priceLabel: '$149.99',
+  priceLabel: '$129.99',
   materials: [
     'Embroidered fabric upper (custom original-spec)',
     'Leather and breathable mesh lining',

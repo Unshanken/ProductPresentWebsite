@@ -100,7 +100,7 @@ export const ToryBurchToryBurchMillerThongSandalsProduct: Product = {
   ],
   featured: false,
   newArrival: true,
-  priceLabel: '$39.99',
+  priceLabel: '$59.99',
   materials: [
     'Leather upper',
     'Rubber outsole',

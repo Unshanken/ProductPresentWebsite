@@ -49,7 +49,7 @@ export const BalenciagaBalenciagaFurrySlippersProduct: Product = {
   ],
   featured: false,
   newArrival: false,
-  priceLabel: '$39.99',
+  priceLabel: '$59.99',
   materials: [
     'Leather upper',
     'Rubber outsole',
